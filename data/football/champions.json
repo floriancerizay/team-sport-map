@@ -1,0 +1,42 @@
+{
+  "2016-17": {
+    "ligue1": "monaco",
+    "ligue2": "strasbourg"
+  },
+  "2017-18": {
+    "ligue1": "psg",
+    "ligue2": "reims"
+  },
+  "2018-19": {
+    "ligue1": "psg",
+    "ligue2": "metz"
+  },
+  "2019-20": {
+    "ligue1": "psg",
+    "ligue2": "lorient"
+  },
+  "2020-21": {
+    "ligue1": "lille",
+    "ligue2": "troyes"
+  },
+  "2021-22": {
+    "ligue1": "psg",
+    "ligue2": "toulouse"
+  },
+  "2022-23": {
+    "ligue1": "psg",
+    "ligue2": "le-havre"
+  },
+  "2023-24": {
+    "ligue1": "psg",
+    "ligue2": "auxerre"
+  },
+  "2024-25": {
+    "ligue1": "psg",
+    "ligue2": "lorient"
+  },
+  "2025-26": {
+    "ligue1": "psg",
+    "ligue2": "troyes"
+  }
+}

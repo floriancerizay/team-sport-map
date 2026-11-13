@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "ac-ajaccio",
+    "nom": "AC Ajaccio",
+    "court": "AC Ajaccio",
+    "ville": "Ajaccio",
+    "couleur": "#d6001c",
+    "wiki": "https://fr.wikipedia.org/wiki/Athletic_Club_ajaccien",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_AC_Ajaccio_2015.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Michel-Moretti",
+        "lat": 41.9316,
+        "lon": 8.7789,
+        "capacite": 10660
+      }
+    ]
+  },
+  {
+    "id": "amiens",
+    "nom": "Amiens SC",
+    "court": "Amiens",
+    "ville": "Amiens",
+    "couleur": "#58595b",
+    "wiki": "https://fr.wikipedia.org/wiki/Amiens_Sporting_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Amiens_SC_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de la Licorne",
+        "lat": 49.8942,
+        "lon": 2.2633,
+        "capacite": 12097
+      }
+    ]
+  },
+  {
+    "id": "angers",
+    "nom": "Angers SCO",
+    "court": "Angers",
+    "ville": "Angers",
+    "couleur": "#1a1a1a",
+    "wiki": "https://fr.wikipedia.org/wiki/Angers_sporting_club_de_l'Ouest",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Angers_SCO_2021.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Raymond-Kopa",
+        "lat": 47.459,
+        "lon": -0.5316,
+        "capacite": 18000
+      }
+    ]
+  },
+  {
+    "id": "annecy",
+    "nom": "FC Annecy",
+    "court": "Annecy",
+    "ville": "Annecy",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_d'Annecy",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_FC_Annecy_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Parc des Sports d'Annecy",
+        "lat": 45.9172,
+        "lon": 6.1197,
+        "capacite": 15714
+      }
+    ]
+  },
+  {
+    "id": "auxerre",
+    "nom": "AJ Auxerre",
+    "court": "Auxerre",
+    "ville": "Auxerre",
+    "couleur": "#0057a8",
+    "wiki": "https://fr.wikipedia.org/wiki/Association_de_la_jeunesse_auxerroise",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_AJ_Auxerre_(Pantone)_1997.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de l'Abbé-Deschamps",
+        "lat": 47.7867,
+        "lon": 3.5887,
+        "capacite": 18541
+      }
+    ]
+  },
+  {
+    "id": "bastia",
+    "nom": "SC Bastia",
+    "court": "Bastia",
+    "ville": "Bastia",
+    "couleur": "#0055a4",
+    "wiki": "https://fr.wikipedia.org/wiki/Sporting_Club_de_Bastia",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Sporting_Club_Bastia_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Armand-Cesari",
+        "lat": 42.652,
+        "lon": 9.443,
+        "capacite": 16000
+      }
+    ]
+  },
+  {
+    "id": "beziers",
+    "nom": "AS Béziers",
+    "court": "Béziers",
+    "ville": "Béziers",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Avenir_sportif_B%C3%A9ziers",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/AS_B%C3%A9ziers.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Parc des Sports de Sauclières",
+        "lat": 43.3315,
+        "lon": 3.2233,
+        "capacite": 12000
+      },
+      {
+        "depuis": "2018-19",
+        "nom": "Stade de la Méditerranée (Raoul-Barrière)",
+        "lat": 43.3363,
+        "lon": 3.2666,
+        "capacite": 18555
+      },
+      {
+        "depuis": "2019-20",
+        "nom": "Parc des Sports de Sauclières",
+        "lat": 43.3315,
+        "lon": 3.2233,
+        "capacite": 12000
+      }
+    ]
+  },
+  {
+    "id": "bordeaux",
+    "nom": "Girondins de Bordeaux",
+    "court": "Bordeaux",
+    "ville": "Bordeaux",
+    "couleur": "#002f5f",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_des_Girondins_de_Bordeaux",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_FC_Girondins_Bordeaux_-_2021.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Matmut Atlantique",
+        "lat": 44.8974,
+        "lon": -0.5613,
+        "capacite": 42115
+      }
+    ]
+  },
+  {
+    "id": "boulogne",
+    "nom": "US Boulogne",
+    "court": "Boulogne",
+    "ville": "Boulogne-sur-Mer",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_Boulogne_C%C3%B4te_d'Opale",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Boulogne_CO_-_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de la Libération",
+        "lat": 50.7244,
+        "lon": 1.6191,
+        "capacite": 6000
+      }
+    ]
+  },
+  {
+    "id": "bourg-peronnas",
+    "nom": "FBBP 01",
+    "court": "Bourg-Péronnas",
+    "ville": "Bourg-en-Bresse",
+    "couleur": "#e30613",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Bourg-en-Bresse_P%C3%A9ronnas_01",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Football_Bourg-en-Bresse_P%C3%A9ronnas_01_-_2015.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Marcel-Verchère",
+        "lat": 46.21,
+        "lon": 5.2371,
+        "capacite": 11400
+      }
+    ]
+  },
+  {
+    "id": "brest",
+    "nom": "Stade brestois 29",
+    "court": "Brest",
+    "ville": "Brest",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_brestois_29",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_SB29_2010.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Francis-Le Blé",
+        "lat": 48.4029,
+        "lon": -4.4615,
+        "capacite": 15097
+      }
+    ]
+  },
+  {
+    "id": "caen",
+    "nom": "Stade Malherbe Caen",
+    "court": "Caen",
+    "ville": "Caen",
+    "couleur": "#003e7e",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_Malherbe_Caen",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_SM_Caen_2016.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Michel-d'Ornano",
+        "lat": 49.1796,
+        "lon": -0.3967,
+        "capacite": 21068
+      }
+    ]
+  },
+  {
+    "id": "chambly",
+    "nom": "FC Chambly Oise",
+    "court": "Chambly",
+    "ville": "Chambly",
+    "couleur": "#002d72",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_de_Chambly_Oise",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_FC_Chambly_Oise.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade des Marais",
+        "lat": 49.1791,
+        "lon": 2.2317,
+        "capacite": 2500
+      },
+      {
+        "depuis": "2019-20",
+        "nom": "Stade Pierre-Brisson",
+        "lat": 49.4316,
+        "lon": 2.1138,
+        "capacite": 10178
+      },
+      {
+        "depuis": "2021-22",
+        "nom": "Stade des Marais",
+        "lat": 49.1791,
+        "lon": 2.2317,
+        "capacite": 3012
+      }
+    ]
+  },
+  {
+    "id": "chateauroux",
+    "nom": "LB Châteauroux",
+    "court": "Châteauroux",
+    "ville": "Châteauroux",
+    "couleur": "#003da5",
+    "wiki": "https://fr.wikipedia.org/wiki/La_Berrichonne_de_Ch%C3%A2teauroux",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Berrichonne_Ch%C3%A2teauroux_2017.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Gaston-Petit",
+        "lat": 46.8007,
+        "lon": 1.7237,
+        "capacite": 17173
+      }
+    ]
+  },
+  {
+    "id": "clermont",
+    "nom": "Clermont Foot 63",
+    "court": "Clermont",
+    "ville": "Clermont-Ferrand",
+    "couleur": "#c8102e",
+    "wiki": "https://fr.wikipedia.org/wiki/Clermont_Foot_63",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Clermont_Foot_63_2021.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Gabriel-Montpied",
+        "lat": 45.8158,
+        "lon": 3.1216,
+        "capacite": 11980
+      }
+    ]
+  },
+  {
+    "id": "concarneau",
+    "nom": "US Concarneau",
+    "court": "Concarneau",
+    "ville": "Concarneau",
+    "couleur": "#d6001c",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_concarnoise",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Concarneau.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Guy-Piriou",
+        "lat": 47.8892,
+        "lon": -3.9136,
+        "capacite": 5800
+      },
+      {
+        "depuis": "2023-24",
+        "nom": "Stade Francis-Le Blé",
+        "lat": 48.4029,
+        "lon": -4.4615,
+        "capacite": 15097
+      },
+      {
+        "depuis": "2024-25",
+        "nom": "Stade Guy-Piriou",
+        "lat": 47.8892,
+        "lon": -3.9136,
+        "capacite": 5000
+      }
+    ]
+  },
+  {
+    "id": "dijon",
+    "nom": "Dijon FCO",
+    "court": "Dijon",
+    "ville": "Dijon",
+    "couleur": "#d50032",
+    "wiki": "https://fr.wikipedia.org/wiki/Dijon_Football_C%C3%B4te-d'Or",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/LogoDFCO.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Gaston-Gérard",
+        "lat": 47.3261,
+        "lon": 5.0679,
+        "capacite": 15995
+      }
+    ]
+  },
+  {
+    "id": "dunkerque",
+    "nom": "USL Dunkerque",
+    "court": "Dunkerque",
+    "ville": "Dunkerque",
+    "couleur": "#0067b1",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_du_littoral_de_Dunkerque",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_USL_Dunkerque_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Marcel-Tribut",
+        "lat": 51.0356,
+        "lon": 2.3903,
+        "capacite": 4200
+      }
+    ]
+  },
+  {
+    "id": "gfc-ajaccio",
+    "nom": "Gazélec FC Ajaccio",
+    "court": "GFC Ajaccio",
+    "ville": "Ajaccio",
+    "couleur": "#00529b",
+    "wiki": "https://fr.wikipedia.org/wiki/Gaz%C3%A9lec_Football_Club_Ajaccio",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Gaz%C3%A9lec_Football_Club_Ajaccio_2012.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Ange-Casanova",
+        "lat": 41.9514,
+        "lon": 8.772,
+        "capacite": 6000
+      }
+    ]
+  },
+  {
+    "id": "grenoble",
+    "nom": "Grenoble Foot 38",
+    "court": "Grenoble",
+    "ville": "Grenoble",
+    "couleur": "#0072ce",
+    "wiki": "https://fr.wikipedia.org/wiki/Grenoble_Foot_38",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_GF38_(cropped).png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade des Alpes",
+        "lat": 45.1875,
+        "lon": 5.7402,
+        "capacite": 20068
+      }
+    ]
+  },
+  {
+    "id": "guingamp",
+    "nom": "En avant Guingamp",
+    "court": "Guingamp",
+    "ville": "Guingamp",
+    "couleur": "#d6001c",
+    "wiki": "https://fr.wikipedia.org/wiki/En_avant_Guingamp",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_EA_Guingamp_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade du Roudourou",
+        "lat": 48.5652,
+        "lon": -3.1655,
+        "capacite": 18250
+      }
+    ]
+  },
+  {
+    "id": "laval",
+    "nom": "Stade lavallois",
+    "court": "Laval",
+    "ville": "Laval",
+    "couleur": "#f37021",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_lavallois_Mayenne_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_Lavallois_MFC_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Francis-Le-Basser",
+        "lat": 48.0839,
+        "lon": -0.7535,
+        "capacite": 11107
+      }
+    ]
+  },
+  {
+    "id": "le-havre",
+    "nom": "Le Havre AC",
+    "court": "Le Havre",
+    "ville": "Le Havre",
+    "couleur": "#6cace4",
+    "wiki": "https://fr.wikipedia.org/wiki/Le_Havre_Athletic_Club_(football)",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Havre_AC_2012.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Océane",
+        "lat": 49.4988,
+        "lon": 0.1697,
+        "capacite": 25178
+      }
+    ]
+  },
+  {
+    "id": "le-mans",
+    "nom": "Le Mans FC",
+    "court": "Le Mans",
+    "ville": "Le Mans",
+    "couleur": "#d50000",
+    "wiki": "https://fr.wikipedia.org/wiki/Le_Mans_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Le_Mans_FC_-_2010.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Marie-Marvingt",
+        "lat": 47.9596,
+        "lon": 0.2213,
+        "capacite": 25064
+      }
+    ]
+  },
+  {
+    "id": "lens",
+    "nom": "RC Lens",
+    "court": "Lens",
+    "ville": "Lens",
+    "couleur": "#ffcc00",
+    "wiki": "https://fr.wikipedia.org/wiki/Racing_Club_de_Lens",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_RC_Lens_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Bollaert-Delelis",
+        "lat": 50.4329,
+        "lon": 2.8149,
+        "capacite": 38223
+      }
+    ]
+  },
+  {
+    "id": "lille",
+    "nom": "LOSC Lille",
+    "court": "Lille",
+    "ville": "Lille",
+    "couleur": "#e01e13",
+    "wiki": "https://fr.wikipedia.org/wiki/LOSC_Lille",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_LOSC_Lille_2018.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Pierre-Mauroy",
+        "lat": 50.612,
+        "lon": 3.1306,
+        "capacite": 50157
+      }
+    ]
+  },
+  {
+    "id": "lorient",
+    "nom": "FC Lorient",
+    "court": "Lorient",
+    "ville": "Lorient",
+    "couleur": "#f58220",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_de_Lorient",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_FC_Lorient_Bretagne-Sud.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade du Moustoir",
+        "lat": 47.7487,
+        "lon": -3.3693,
+        "capacite": 18970
+      }
+    ]
+  },
+  {
+    "id": "martigues",
+    "nom": "FC Martigues",
+    "court": "Martigues",
+    "ville": "Martigues",
+    "couleur": "#d2232a",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_de_Martigues",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_FC_Martigues_2026.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Francis-Turcan",
+        "lat": 43.4073,
+        "lon": 5.0493,
+        "capacite": 11500
+      }
+    ]
+  },
+  {
+    "id": "metz",
+    "nom": "FC Metz",
+    "court": "Metz",
+    "ville": "Metz",
+    "couleur": "#8a1538",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_de_Metz",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/FC_Metz_2021_Logo.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Saint-Symphorien",
+        "lat": 49.1099,
+        "lon": 6.1595,
+        "capacite": 26671
+      }
+    ]
+  },
+  {
+    "id": "monaco",
+    "nom": "AS Monaco",
+    "court": "Monaco",
+    "ville": "Monaco",
+    "couleur": "#e51b22",
+    "wiki": "https://fr.wikipedia.org/wiki/Association_sportive_de_Monaco_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_AS_Monaco_FC_2021.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Louis-II",
+        "lat": 43.7278,
+        "lon": 7.4156,
+        "capacite": 16500
+      }
+    ]
+  },
+  {
+    "id": "montpellier",
+    "nom": "Montpellier HSC",
+    "court": "Montpellier",
+    "ville": "Montpellier",
+    "couleur": "#f26522",
+    "wiki": "https://fr.wikipedia.org/wiki/Montpellier_H%C3%A9rault_Sport_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Montpellier_HSC_-_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de la Mosson",
+        "lat": 43.6206,
+        "lon": 3.8128,
+        "capacite": 32900
+      }
+    ]
+  },
+  {
+    "id": "nancy",
+    "nom": "AS Nancy-Lorraine",
+    "court": "Nancy",
+    "ville": "Nancy",
+    "couleur": "#c8102e",
+    "wiki": "https://fr.wikipedia.org/wiki/Association_sportive_Nancy-Lorraine",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_AS_Nancy_Lorraine_2018.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Marcel-Picot",
+        "lat": 48.696,
+        "lon": 6.2122,
+        "capacite": 20087
+      }
+    ]
+  },
+  {
+    "id": "nantes",
+    "nom": "FC Nantes",
+    "court": "Nantes",
+    "ville": "Nantes",
+    "couleur": "#fcd405",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_de_Nantes",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_FC_Nantes_(avec_fond)_-_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de la Beaujoire",
+        "lat": 47.2561,
+        "lon": -1.5247,
+        "capacite": 35318
+      }
+    ]
+  },
+  {
+    "id": "nice",
+    "nom": "OGC Nice",
+    "court": "Nice",
+    "ville": "Nice",
+    "couleur": "#c8102e",
+    "wiki": "https://fr.wikipedia.org/wiki/Olympique_Gymnaste_Club_de_Nice",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_OGC_Nice_-_2023.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Allianz Riviera",
+        "lat": 43.7051,
+        "lon": 7.1926,
+        "capacite": 36178
+      }
+    ]
+  },
+  {
+    "id": "nimes",
+    "nom": "Nîmes Olympique",
+    "court": "Nîmes",
+    "ville": "Nîmes",
+    "couleur": "#d71920",
+    "wiki": "https://fr.wikipedia.org/wiki/N%C3%AEmes_Olympique",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/N%C3%AEmes_Olympique_logo_2018.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade des Costières",
+        "lat": 43.816,
+        "lon": 4.3593,
+        "capacite": 18482
+      },
+      {
+        "depuis": "2022-23",
+        "nom": "Stade des Antonins",
+        "lat": 43.8108,
+        "lon": 4.3564,
+        "capacite": 8033
+      }
+    ]
+  },
+  {
+    "id": "niort",
+    "nom": "Chamois niortais FC",
+    "court": "Niort",
+    "ville": "Niort",
+    "couleur": "#003da5",
+    "wiki": "https://fr.wikipedia.org/wiki/Chamois_niortais_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Chamois_Niortais_FC_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade René-Gaillard",
+        "lat": 46.3171,
+        "lon": -0.4896,
+        "capacite": 10898
+      }
+    ]
+  },
+  {
+    "id": "ol",
+    "nom": "Olympique lyonnais",
+    "court": "Lyon",
+    "ville": "Lyon",
+    "couleur": "#1c3f94",
+    "wiki": "https://fr.wikipedia.org/wiki/Olympique_lyonnais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Olympique_Lyonnais_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Groupama Stadium",
+        "lat": 45.7652,
+        "lon": 4.9821,
+        "capacite": 59186
+      }
+    ]
+  },
+  {
+    "id": "om",
+    "nom": "Olympique de Marseille",
+    "court": "Marseille",
+    "ville": "Marseille",
+    "couleur": "#2faee0",
+    "wiki": "https://fr.wikipedia.org/wiki/Olympique_de_Marseille",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympique_de_Marseille_2026_logo.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Vélodrome",
+        "lat": 43.2692,
+        "lon": 5.3949,
+        "capacite": 67394
+      }
+    ]
+  },
+  {
+    "id": "orleans",
+    "nom": "US Orléans",
+    "court": "Orléans",
+    "ville": "Orléans",
+    "couleur": "#e30613",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_Orl%C3%A9ans_Loiret_football",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Orl%C3%A9ans_2011.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de la Source",
+        "lat": 47.8407,
+        "lon": 1.9417,
+        "capacite": 6863
+      }
+    ]
+  },
+  {
+    "id": "paris-fc",
+    "nom": "Paris FC",
+    "court": "Paris FC",
+    "ville": "Paris",
+    "couleur": "#0b2d6b",
+    "wiki": "https://fr.wikipedia.org/wiki/Paris_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Paris_FC_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Charléty",
+        "lat": 48.8172,
+        "lon": 2.3451,
+        "capacite": 20000
+      },
+      {
+        "depuis": "2025-26",
+        "nom": "Stade Jean-Bouin",
+        "lat": 48.8432,
+        "lon": 2.2529,
+        "capacite": 20000
+      }
+    ]
+  },
+  {
+    "id": "pau",
+    "nom": "Pau FC",
+    "court": "Pau",
+    "ville": "Pau",
+    "couleur": "#ffd200",
+    "wiki": "https://fr.wikipedia.org/wiki/Pau_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Pau_FC_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade du Hameau",
+        "lat": 43.3095,
+        "lon": -0.3169,
+        "capacite": 13819
+      },
+      {
+        "depuis": "2018-19",
+        "nom": "Nouste Camp",
+        "lat": 43.3077,
+        "lon": -0.3252,
+        "capacite": 4500
+      },
+      {
+        "depuis": "2020-21",
+        "nom": "Stade du Hameau",
+        "lat": 43.3095,
+        "lon": -0.3169,
+        "capacite": 13819
+      },
+      {
+        "depuis": "2021-22",
+        "nom": "Nouste Camp",
+        "lat": 43.3077,
+        "lon": -0.3252,
+        "capacite": 4500
+      }
+    ]
+  },
+  {
+    "id": "psg",
+    "nom": "Paris Saint-Germain",
+    "court": "Paris SG",
+    "ville": "Paris",
+    "couleur": "#004170",
+    "wiki": "https://fr.wikipedia.org/wiki/Paris_Saint-Germain_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Paris_Saint-Germain_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Parc des Princes",
+        "lat": 48.8415,
+        "lon": 2.253,
+        "capacite": 47929
+      }
+    ]
+  },
+  {
+    "id": "quevilly-rouen",
+    "nom": "US Quevilly-Rouen Métropole",
+    "court": "Quevilly-Rouen",
+    "ville": "Le Petit-Quevilly",
+    "couleur": "#ffd700",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_Quevilly-Rouen_M%C3%A9tropole",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Quevilly_Rouen_2018.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Robert-Diochon",
+        "lat": 49.4111,
+        "lon": 1.0708,
+        "capacite": 12018
+      }
+    ]
+  },
+  {
+    "id": "red-star",
+    "nom": "Red Star FC",
+    "court": "Red Star",
+    "ville": "Saint-Ouen-sur-Seine",
+    "couleur": "#00843d",
+    "wiki": "https://fr.wikipedia.org/wiki/Red_Star_Football_Club",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Red_Star_FC_2014.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Jean-Bouin",
+        "lat": 48.8432,
+        "lon": 2.2529,
+        "capacite": 20000
+      },
+      {
+        "depuis": "2017-18",
+        "nom": "Stade Bauer",
+        "lat": 48.9061,
+        "lon": 2.3411,
+        "capacite": 3000
+      },
+      {
+        "depuis": "2018-19",
+        "nom": "Stade Pierre-Brisson",
+        "lat": 49.4316,
+        "lon": 2.1138,
+        "capacite": 10178
+      },
+      {
+        "depuis": "2019-20",
+        "nom": "Stade Bauer",
+        "lat": 48.9061,
+        "lon": 2.3411,
+        "capacite": 3000
+      },
+      {
+        "depuis": "2024-25",
+        "nom": "Stade Bauer",
+        "lat": 48.9061,
+        "lon": 2.3411,
+        "capacite": 5600
+      }
+    ]
+  },
+  {
+    "id": "reims",
+    "nom": "Stade de Reims",
+    "court": "Reims",
+    "ville": "Reims",
+    "couleur": "#e30613",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_de_Reims",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_de_Reims_2020_(Alternatif).svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Auguste-Delaune",
+        "lat": 49.2472,
+        "lon": 4.0248,
+        "capacite": 21684
+      }
+    ]
+  },
+  {
+    "id": "rennes",
+    "nom": "Stade rennais FC",
+    "court": "Rennes",
+    "ville": "Rennes",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_rennais_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_Rennais_FC.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Roazhon Park",
+        "lat": 48.1074,
+        "lon": -1.7128,
+        "capacite": 29778
+      }
+    ]
+  },
+  {
+    "id": "rodez",
+    "nom": "Rodez AF",
+    "court": "Rodez",
+    "ville": "Rodez",
+    "couleur": "#c8102e",
+    "wiki": "https://fr.wikipedia.org/wiki/Rodez_Aveyron_Football",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rodez_AF.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Paul-Lignon",
+        "lat": 44.3516,
+        "lon": 2.5638,
+        "capacite": 6761
+      }
+    ]
+  },
+  {
+    "id": "saint-etienne",
+    "nom": "AS Saint-Étienne",
+    "court": "Saint-Étienne",
+    "ville": "Saint-Étienne",
+    "couleur": "#00a650",
+    "wiki": "https://fr.wikipedia.org/wiki/Association_sportive_de_Saint-%C3%89tienne",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/AS_Saint-Etienne-logo_2022.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Geoffroy-Guichard",
+        "lat": 45.4607,
+        "lon": 4.3902,
+        "capacite": 41965
+      }
+    ]
+  },
+  {
+    "id": "sochaux",
+    "nom": "FC Sochaux-Montbéliard",
+    "court": "Sochaux",
+    "ville": "Montbéliard",
+    "couleur": "#ffd400",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_Sochaux-Montb%C3%A9liard",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_FC_Sochaux_Montb%C3%A9liard_2015.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Auguste-Bonal",
+        "lat": 47.5124,
+        "lon": 6.8112,
+        "capacite": 20025
+      }
+    ]
+  },
+  {
+    "id": "strasbourg",
+    "nom": "RC Strasbourg Alsace",
+    "court": "Strasbourg",
+    "ville": "Strasbourg",
+    "couleur": "#009fe3",
+    "wiki": "https://fr.wikipedia.org/wiki/Racing_Club_de_Strasbourg_Alsace",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Racing_Club_de_Strasbourg_Alsace_(RC_Strasbourg_-_RCS_-_RCSA)_logo_officiel.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de la Meinau",
+        "lat": 48.5594,
+        "lon": 7.7574,
+        "capacite": 26109
+      }
+    ]
+  },
+  {
+    "id": "toulouse",
+    "nom": "Toulouse FC",
+    "court": "Toulouse",
+    "ville": "Toulouse",
+    "couleur": "#5b2a86",
+    "wiki": "https://fr.wikipedia.org/wiki/Toulouse_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Toulouse_FC_logo_2021.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stadium de Toulouse",
+        "lat": 43.5833,
+        "lon": 1.4341,
+        "capacite": 33150
+      }
+    ]
+  },
+  {
+    "id": "tours",
+    "nom": "Tours FC",
+    "court": "Tours",
+    "ville": "Tours",
+    "couleur": "#0033a0",
+    "wiki": "https://fr.wikipedia.org/wiki/Tours_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Tours_FC_logo.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de la Vallée du Cher",
+        "lat": 47.3761,
+        "lon": 0.7281,
+        "capacite": 13500
+      }
+    ]
+  },
+  {
+    "id": "troyes",
+    "nom": "ES Troyes AC",
+    "court": "Troyes",
+    "ville": "Troyes",
+    "couleur": "#1d4f9c",
+    "wiki": "https://fr.wikipedia.org/wiki/Esp%C3%A9rance_sportive_Troyes_Aube_Champagne",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/ES_Troyes_AC.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de l'Aube",
+        "lat": 48.3062,
+        "lon": 4.0982,
+        "capacite": 20400
+      }
+    ]
+  },
+  {
+    "id": "valenciennes",
+    "nom": "Valenciennes FC",
+    "court": "Valenciennes",
+    "ville": "Valenciennes",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Valenciennes_Football_Club",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Valenciennes_FC.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade du Hainaut",
+        "lat": 50.3485,
+        "lon": 3.5318,
+        "capacite": 25000
+      }
+    ]
+  }
+]

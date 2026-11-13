@@ -1,0 +1,1275 @@
+[
+  {
+    "id": "toulouse",
+    "nom": "Stade toulousain",
+    "court": "Toulouse",
+    "ville": "Toulouse",
+    "couleur": "#d2002e",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_toulousain",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_Toulousain_Rugby.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Ernest-Wallon",
+        "lat": 43.6219,
+        "lon": 1.4156,
+        "capacite": 18754
+      }
+    ]
+  },
+  {
+    "id": "clermont",
+    "nom": "ASM Clermont Auvergne",
+    "court": "Clermont",
+    "ville": "Clermont-Ferrand",
+    "couleur": "#f5c400",
+    "wiki": "https://fr.wikipedia.org/wiki/ASM_Clermont_Auvergne",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_ASM_Clermont_Auvergne_2019.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Marcel-Michelin",
+        "lat": 45.79,
+        "lon": 3.1075,
+        "capacite": 19357
+      }
+    ]
+  },
+  {
+    "id": "racing92",
+    "nom": "Racing 92",
+    "court": "Racing 92",
+    "ville": "Nanterre",
+    "couleur": "#6cb4e4",
+    "wiki": "https://fr.wikipedia.org/wiki/Racing_92",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Racing_92_(logo).svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Yves-du-Manoir",
+        "lat": 48.9314,
+        "lon": 2.2496,
+        "capacite": 14000
+      },
+      {
+        "depuis": "2017-18",
+        "nom": "Paris La Défense Arena",
+        "lat": 48.8957,
+        "lon": 2.2296,
+        "capacite": 30680
+      }
+    ]
+  },
+  {
+    "id": "stade-francais",
+    "nom": "Stade français Paris",
+    "court": "Stade français",
+    "ville": "Paris",
+    "couleur": "#e4007c",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_français_Paris_rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_français_PR_2018.svg",
+    "stades": [
+      {
+        "depuis": "1996-97",
+        "nom": "Stade Jean-Bouin",
+        "lat": 48.8432,
+        "lon": 2.2529,
+        "capacite": 10000
+      },
+      {
+        "depuis": "2010-11",
+        "nom": "Stade Charléty",
+        "lat": 48.8172,
+        "lon": 2.3451,
+        "capacite": 20000
+      },
+      {
+        "depuis": "2013-14",
+        "nom": "Stade Jean-Bouin",
+        "lat": 48.8432,
+        "lon": 2.2529,
+        "capacite": 20000
+      }
+    ]
+  },
+  {
+    "id": "ubb",
+    "nom": "Union Bordeaux Bègles",
+    "court": "UBB",
+    "ville": "Bordeaux",
+    "couleur": "#6b0f2b",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_Bordeaux_Bègles",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Union_Bordeaux_Bègles_-_2026.svg",
+    "stades": [
+      {
+        "depuis": "2006-07",
+        "nom": "Stade André-Moga",
+        "lat": 44.8053,
+        "lon": -0.5524,
+        "capacite": 7201
+      },
+      {
+        "depuis": "2013-14",
+        "nom": "Stade Chaban-Delmas",
+        "lat": 44.8292,
+        "lon": -0.5981,
+        "capacite": 34098
+      }
+    ]
+  },
+  {
+    "id": "la-rochelle",
+    "nom": "Stade rochelais",
+    "court": "La Rochelle",
+    "ville": "La Rochelle",
+    "couleur": "#ffe000",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_rochelais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_rochelais_2016.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Marcel-Deflandre",
+        "lat": 46.1583,
+        "lon": -1.1784,
+        "capacite": 18000
+      }
+    ]
+  },
+  {
+    "id": "toulon",
+    "nom": "RC toulonnais",
+    "court": "Toulon",
+    "ville": "Toulon",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Rugby_club_toulonnais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_RC_Toulon_(3_Étoiles)_2020.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Mayol",
+        "lat": 43.119,
+        "lon": 5.9366,
+        "capacite": 16437
+      }
+    ]
+  },
+  {
+    "id": "castres",
+    "nom": "Castres olympique",
+    "court": "Castres",
+    "ville": "Castres",
+    "couleur": "#0055a4",
+    "wiki": "https://fr.wikipedia.org/wiki/Castres_olympique",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Castres_Olympique_2026.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Pierre-Fabre",
+        "lat": 43.6109,
+        "lon": 2.2527,
+        "capacite": 11778
+      }
+    ]
+  },
+  {
+    "id": "montpellier",
+    "nom": "Montpellier Hérault Rugby",
+    "court": "Montpellier",
+    "ville": "Montpellier",
+    "couleur": "#002d72",
+    "wiki": "https://fr.wikipedia.org/wiki/Montpellier_Hérault_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Montpellier_Hérault_rugby_2013.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Sabathé",
+        "lat": 43.598,
+        "lon": 3.8696,
+        "capacite": 8000
+      },
+      {
+        "depuis": "2007-08",
+        "nom": "Septeo Stadium",
+        "lat": 43.5929,
+        "lon": 3.8481,
+        "capacite": 14392
+      }
+    ]
+  },
+  {
+    "id": "lyon",
+    "nom": "Lyon olympique universitaire",
+    "court": "Lyon",
+    "ville": "Lyon",
+    "couleur": "#c8102e",
+    "wiki": "https://fr.wikipedia.org/wiki/Lyon_olympique_universitaire_rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Lyon_olympique_universitaire.svg",
+    "stades": [
+      {
+        "depuis": "2002-03",
+        "nom": "Stade Vuillermet",
+        "lat": 45.724,
+        "lon": 4.881,
+        "capacite": 3000
+      },
+      {
+        "depuis": "2011-12",
+        "nom": "Matmut Stadium (Vénissieux)",
+        "lat": 45.7213,
+        "lon": 4.876,
+        "capacite": 11805
+      },
+      {
+        "depuis": "2017-18",
+        "nom": "Matmut Stadium de Gerland",
+        "lat": 45.7238,
+        "lon": 4.8323,
+        "capacite": 35052
+      }
+    ]
+  },
+  {
+    "id": "pau",
+    "nom": "Section paloise",
+    "court": "Pau",
+    "ville": "Pau",
+    "couleur": "#00843d",
+    "wiki": "https://fr.wikipedia.org/wiki/Section_paloise_(rugby_à_XV)",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Section_paloise_Béarn_Pyrénées_2021.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade du Hameau",
+        "lat": 43.3095,
+        "lon": -0.3169,
+        "capacite": 14999
+      }
+    ]
+  },
+  {
+    "id": "bayonne",
+    "nom": "Aviron bayonnais",
+    "court": "Bayonne",
+    "ville": "Bayonne",
+    "couleur": "#5eb6e4",
+    "wiki": "https://fr.wikipedia.org/wiki/Aviron_bayonnais_rugby_pro",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Aviron_Bayonnais_Rugby_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Jean-Dauger",
+        "lat": 43.4855,
+        "lon": -1.4794,
+        "capacite": 15074
+      }
+    ]
+  },
+  {
+    "id": "perpignan",
+    "nom": "USA Perpignan",
+    "court": "Perpignan",
+    "ville": "Perpignan",
+    "couleur": "#d4a017",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_Arlequins_perpignanais",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/USA_Perpignan_(logo).svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Aimé-Giral",
+        "lat": 42.7155,
+        "lon": 2.89,
+        "capacite": 14727
+      }
+    ]
+  },
+  {
+    "id": "brive",
+    "nom": "CA Brive Corrèze Limousin",
+    "court": "Brive",
+    "ville": "Brive-la-Gaillarde",
+    "couleur": "#000000",
+    "wiki": "https://fr.wikipedia.org/wiki/Club_athlétique_Brive_Corrèze_Limousin",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CA_Brive_(logo).svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Amédée-Domenech",
+        "lat": 45.1618,
+        "lon": 1.5485,
+        "capacite": 14759
+      }
+    ]
+  },
+  {
+    "id": "agen",
+    "nom": "SU Agen Lot-et-Garonne",
+    "court": "Agen",
+    "ville": "Agen",
+    "couleur": "#005eb8",
+    "wiki": "https://fr.wikipedia.org/wiki/Sporting_Union_Agen_Lot-et-Garonne",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Sporting_Union_Agen_Lot-et-Garonne_2020.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Armandie",
+        "lat": 44.1926,
+        "lon": 0.6205,
+        "capacite": 14100
+      }
+    ]
+  },
+  {
+    "id": "grenoble",
+    "nom": "FC Grenoble rugby",
+    "court": "Grenoble",
+    "ville": "Grenoble",
+    "couleur": "#1d3f8f",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_de_Grenoble_rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_FC_Grenoble_Rugby.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Lesdiguières",
+        "lat": 45.1661,
+        "lon": 5.7095,
+        "capacite": 7634
+      },
+      {
+        "depuis": "2014-15",
+        "nom": "Stade des Alpes",
+        "lat": 45.1875,
+        "lon": 5.7402,
+        "capacite": 20068
+      }
+    ]
+  },
+  {
+    "id": "oyonnax",
+    "nom": "Oyonnax Rugby",
+    "court": "Oyonnax",
+    "ville": "Oyonnax",
+    "couleur": "#b5121b",
+    "wiki": "https://fr.wikipedia.org/wiki/Oyonnax_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Oyonnax_rugby_2018.svg",
+    "stades": [
+      {
+        "depuis": "2003-04",
+        "nom": "Stade Charles-Mathon",
+        "lat": 46.2536,
+        "lon": 5.645,
+        "capacite": 11150
+      }
+    ]
+  },
+  {
+    "id": "vannes",
+    "nom": "RC Vannes",
+    "court": "Vannes",
+    "ville": "Vannes",
+    "couleur": "#003f87",
+    "wiki": "https://fr.wikipedia.org/wiki/Rugby_club_vannetais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_RC_Vannes_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade de la Rabine",
+        "lat": 47.6518,
+        "lon": -2.761,
+        "capacite": 12052
+      }
+    ]
+  },
+  {
+    "id": "montauban",
+    "nom": "US Montauban",
+    "court": "Montauban",
+    "ville": "Montauban",
+    "couleur": "#007a3d",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_montalbanaise",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Montalbanaise_-_2017.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Sapiac",
+        "lat": 44.0102,
+        "lon": 1.3517,
+        "capacite": 9200
+      }
+    ]
+  },
+  {
+    "id": "biarritz",
+    "nom": "Biarritz olympique Pays basque",
+    "court": "Biarritz",
+    "ville": "Biarritz",
+    "couleur": "#d0021b",
+    "wiki": "https://fr.wikipedia.org/wiki/Biarritz_olympique_Pays_basque",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Biarritz_Olympique_Pays_Basque_-_2016.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Parc des sports d'Aguiléra",
+        "lat": 43.4818,
+        "lon": -1.5377,
+        "capacite": 13341
+      }
+    ]
+  },
+  {
+    "id": "beziers",
+    "nom": "AS Béziers Hérault",
+    "court": "Béziers",
+    "ville": "Béziers",
+    "couleur": "#d50032",
+    "wiki": "https://fr.wikipedia.org/wiki/Association_sportive_de_Béziers_Hérault",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Association_sportive_de_Béziers_Hérault_2024.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Raoul-Barrière",
+        "lat": 43.3363,
+        "lon": 3.2666,
+        "capacite": 18755
+      }
+    ]
+  },
+  {
+    "id": "aurillac",
+    "nom": "Stade aurillacois",
+    "court": "Aurillac",
+    "ville": "Aurillac",
+    "couleur": "#c4161c",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_aurillacois_Cantal_Auvergne",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_aurillacois_Cantal_Auvergne_2018.svg",
+    "stades": [
+      {
+        "depuis": "1996-97",
+        "nom": "Stade Jean-Alric",
+        "lat": 44.9245,
+        "lon": 2.4295,
+        "capacite": 7946
+      }
+    ]
+  },
+  {
+    "id": "bourgoin",
+    "nom": "CS Bourgoin-Jallieu",
+    "court": "Bourgoin",
+    "ville": "Bourgoin-Jallieu",
+    "couleur": "#6cace4",
+    "wiki": "https://fr.wikipedia.org/wiki/Club_sportif_Bourgoin-Jallieu_rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Club_sportif_Bourgoin-Jallieu_rugby_(3).svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Pierre-Rajon",
+        "lat": 45.5904,
+        "lon": 5.2878,
+        "capacite": 9441
+      }
+    ]
+  },
+  {
+    "id": "albi",
+    "nom": "SC Albi",
+    "court": "Albi",
+    "ville": "Albi",
+    "couleur": "#ffd100",
+    "wiki": "https://fr.wikipedia.org/wiki/Sporting_Club_albigeois",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_SC_Albi_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "2002-03",
+        "nom": "Stadium municipal d'Albi",
+        "lat": 43.9233,
+        "lon": 2.1665,
+        "capacite": 12058
+      }
+    ]
+  },
+  {
+    "id": "carcassonne",
+    "nom": "US Carcassonne",
+    "court": "Carcassonne",
+    "ville": "Carcassonne",
+    "couleur": "#f2c500",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_carcassonnaise_XV",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Carcassonne_-_2023.svg",
+    "stades": [
+      {
+        "depuis": "2010-11",
+        "nom": "Stade Albert-Domec",
+        "lat": 43.2179,
+        "lon": 2.3644,
+        "capacite": 13946
+      }
+    ]
+  },
+  {
+    "id": "colomiers",
+    "nom": "Colomiers Rugby",
+    "court": "Colomiers",
+    "ville": "Colomiers",
+    "couleur": "#0072ce",
+    "wiki": "https://fr.wikipedia.org/wiki/Colomiers_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Colomiers_Rugby_2008.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Michel-Bendichou",
+        "lat": 43.6198,
+        "lon": 1.3273,
+        "capacite": 6950
+      }
+    ]
+  },
+  {
+    "id": "dax",
+    "nom": "US Dax",
+    "court": "Dax",
+    "ville": "Dax",
+    "couleur": "#e30613",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_dacquoise",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Dax_Rugby_Landes_-_2018.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Maurice-Boyau",
+        "lat": 43.7122,
+        "lon": -1.0458,
+        "capacite": 7412
+      }
+    ]
+  },
+  {
+    "id": "mont-de-marsan",
+    "nom": "Stade montois",
+    "court": "Mont-de-Marsan",
+    "ville": "Mont-de-Marsan",
+    "couleur": "#fcd116",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_montois_rugby",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Stade_Montois_Rugby_Pro.svg",
+    "stades": [
+      {
+        "depuis": "1999-00",
+        "nom": "Stade André-et-Guy-Boniface",
+        "lat": 43.8954,
+        "lon": -0.4826,
+        "capacite": 12212
+      }
+    ]
+  },
+  {
+    "id": "narbonne",
+    "nom": "RC Narbonne",
+    "court": "Narbonne",
+    "ville": "Narbonne",
+    "couleur": "#f18a00",
+    "wiki": "https://fr.wikipedia.org/wiki/Racing_Club_narbonnais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_RC_Narbonne_-_2023.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Parc des sports et de l'amitié",
+        "lat": 43.1817,
+        "lon": 3.0208,
+        "capacite": 12000
+      }
+    ]
+  },
+  {
+    "id": "soyaux-angouleme",
+    "nom": "Soyaux Angoulême XV Charente",
+    "court": "Angoulême",
+    "ville": "Angoulême",
+    "couleur": "#6a1b9a",
+    "wiki": "https://fr.wikipedia.org/wiki/Soyaux_Angoulême_XV_Charente",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Soyaux_Angoulême_XV_Charente_-_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Chanzy",
+        "lat": 45.6418,
+        "lon": 0.1762,
+        "capacite": 8000
+      }
+    ]
+  },
+  {
+    "id": "massy",
+    "nom": "RC Massy Essonne",
+    "court": "Massy",
+    "ville": "Massy",
+    "couleur": "#7fb8e0",
+    "wiki": "https://fr.wikipedia.org/wiki/Rugby_Club_Massy_Essonne",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Rugby_Club_Massy_Essonne_-_2020.svg",
+    "stades": [
+      {
+        "depuis": "2012-13",
+        "nom": "Stade Jules-Ladoumègue",
+        "lat": 48.7322,
+        "lon": 2.2963,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "nevers",
+    "nom": "USON Nevers",
+    "court": "Nevers",
+    "ville": "Nevers",
+    "couleur": "#f6c700",
+    "wiki": "https://fr.wikipedia.org/wiki/USON_Nevers_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_USON_Nevers_2016.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade du Pré Fleuri",
+        "lat": 46.9755,
+        "lon": 3.1602,
+        "capacite": 7356
+      }
+    ]
+  },
+  {
+    "id": "bourg-en-bresse",
+    "nom": "US Bressane",
+    "court": "Bourg",
+    "ville": "Bourg-en-Bresse",
+    "couleur": "#5b2c83",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_bressane_Pays_de_l'Ain",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Bressane_PA_2015.svg",
+    "stades": [
+      {
+        "depuis": "2008-09",
+        "nom": "Stade Marcel-Verchère",
+        "lat": 46.21,
+        "lon": 5.2371,
+        "capacite": 11500
+      }
+    ]
+  },
+  {
+    "id": "provence",
+    "nom": "Provence Rugby",
+    "court": "Provence",
+    "ville": "Aix-en-Provence",
+    "couleur": "#1a1a1a",
+    "wiki": "https://fr.wikipedia.org/wiki/Provence_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Provence_Rugby_-_2021.svg",
+    "stades": [
+      {
+        "depuis": "2004-05",
+        "nom": "Stade Maurice-David",
+        "lat": 43.5276,
+        "lon": 5.4228,
+        "capacite": 8727
+      }
+    ]
+  },
+  {
+    "id": "rouen",
+    "nom": "Rouen Normandie Rugby",
+    "court": "Rouen",
+    "ville": "Rouen",
+    "couleur": "#2b2b2b",
+    "wiki": "https://fr.wikipedia.org/wiki/Rouen_Normandie_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Rouen_Normandie_Rugby_-_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Jean-Mermoz",
+        "lat": 49.4323,
+        "lon": 1.0723,
+        "capacite": 3000
+      },
+      {
+        "depuis": "2021-22",
+        "nom": "Stade Robert-Diochon",
+        "lat": 49.4111,
+        "lon": 1.0708,
+        "capacite": 12308
+      }
+    ]
+  },
+  {
+    "id": "valence-romans",
+    "nom": "Valence Romans Drôme Rugby",
+    "court": "Valence Romans",
+    "ville": "Valence",
+    "couleur": "#cf142b",
+    "wiki": "https://fr.wikipedia.org/wiki/Valence_Romans_Drôme_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Valence-RomansLogo.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Georges-Pompidou",
+        "lat": 44.9456,
+        "lon": 4.9193,
+        "capacite": 8864
+      }
+    ]
+  },
+  {
+    "id": "nice",
+    "nom": "Nissa Rugby",
+    "court": "Nice",
+    "ville": "Nice",
+    "couleur": "#b0001e",
+    "wiki": "https://fr.wikipedia.org/wiki/Nissa_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Nissa_Rugby_-_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade des Arboras",
+        "lat": 43.6903,
+        "lon": 7.1922,
+        "capacite": 3000
+      },
+      {
+        "depuis": "2024-25",
+        "nom": "Stade Marcel-Volot",
+        "lat": 43.6903,
+        "lon": 7.1922,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "nimes",
+    "nom": "RC nîmois",
+    "court": "Nîmes",
+    "ville": "Nîmes",
+    "couleur": "#c8102e",
+    "wiki": "https://fr.wikipedia.org/wiki/Rugby_club_nîmois",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Rugby_Club_Nîmois_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Nicolas-Kaufmann",
+        "lat": 43.8301,
+        "lon": 4.3896,
+        "capacite": 3500
+      }
+    ]
+  },
+  {
+    "id": "rrc-nice",
+    "nom": "Racing Rugby Club de Nice",
+    "court": "RRC Nice",
+    "ville": "Nice",
+    "couleur": "#f2c500",
+    "wiki": "https://fr.wikipedia.org/wiki/Racing_Rugby_Club_de_Nice",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Racing_Rugby_Club_de_Nice_années_1980.png",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Alfred-Méarelli",
+        "lat": 43.6708,
+        "lon": 7.2164,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "begles-bordeaux",
+    "nom": "CA Bègles-Bordeaux",
+    "court": "Bègles",
+    "ville": "Bègles",
+    "couleur": "#1f4e9c",
+    "wiki": "https://fr.wikipedia.org/wiki/Club_athlétique_Bordeaux_Bègles_Gironde",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Club_Athlétique_Bordeaux_Bègles_Gironde.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade André-Moga",
+        "lat": 44.8053,
+        "lon": -0.5524,
+        "capacite": 7201
+      }
+    ]
+  },
+  {
+    "id": "rumilly",
+    "nom": "RC Savoie Rumilly",
+    "court": "Rumilly",
+    "ville": "Rumilly",
+    "couleur": "#b5121b",
+    "wiki": "https://fr.wikipedia.org/wiki/Rugby_club_Savoie_Rumilly",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Rugby_Club_Savoie_Rumilly_-_2025.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade des Grangettes",
+        "lat": 45.8615,
+        "lon": 5.9567,
+        "capacite": 4500
+      }
+    ]
+  },
+  {
+    "id": "dijon",
+    "nom": "Stade dijonnais",
+    "court": "Dijon",
+    "ville": "Dijon",
+    "couleur": "#d01c1f",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_dijonnais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_Dijonnais_-_2025.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Bourillot",
+        "lat": 47.2977,
+        "lon": 5.0496,
+        "capacite": 1000
+      }
+    ]
+  },
+  {
+    "id": "argeles",
+    "nom": "ES catalane (Argelès)",
+    "court": "Argelès",
+    "ville": "Argelès-sur-Mer",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Étoile_sportive_catalane",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/EtoileCatalaneRugby.jpg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Gaston-Pams",
+        "lat": 42.5484,
+        "lon": 3.0316,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "lourdes",
+    "nom": "FC lourdais",
+    "court": "Lourdes",
+    "ville": "Lourdes",
+    "couleur": "#c4161c",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_club_lourdais_XV_Hautes-Pyrénées",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Football_Club_lourdais_rugby_2022.png",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Antoine-Béguère",
+        "lat": 43.1038,
+        "lon": -0.0586,
+        "capacite": 6500
+      }
+    ]
+  },
+  {
+    "id": "stade-bordelais",
+    "nom": "Stade bordelais",
+    "court": "St. bordelais",
+    "ville": "Bordeaux",
+    "couleur": "#7b1e3a",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_bordelais_(rugby_à_XV)",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_bordelais_rugby_2018.png",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Sainte-Germaine",
+        "lat": 44.8704,
+        "lon": -0.6183,
+        "capacite": 7000
+      }
+    ]
+  },
+  {
+    "id": "tyrosse",
+    "nom": "US Tyrosse",
+    "court": "Tyrosse",
+    "ville": "Saint-Vincent-de-Tyrosse",
+    "couleur": "#d0101b",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_Tyrosse_rugby_Côte_sud",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Union_sportive_tyrossaise.png",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade La Fougère",
+        "lat": 43.6601,
+        "lon": -1.2963,
+        "capacite": 6800
+      }
+    ]
+  },
+  {
+    "id": "saint-paul-les-dax",
+    "nom": "Saint-Paul sports rugby",
+    "court": "Saint-Paul",
+    "ville": "Saint-Paul-lès-Dax",
+    "couleur": "#2056a8",
+    "wiki": "https://fr.wikipedia.org/wiki/Saint-Paul_Sports_Rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Saint-Paul_sports_rugby_2020.png",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade municipal de Saint-Paul-lès-Dax",
+        "lat": 43.7256,
+        "lon": -1.0601,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "graulhet",
+    "nom": "SC graulhetois",
+    "court": "Graulhet",
+    "ville": "Graulhet",
+    "couleur": "#a3111a",
+    "wiki": "https://fr.wikipedia.org/wiki/Sporting_Club_graulhetois",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Sporting_Club_Graulhetois_-_2024.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Noël-Pélissou",
+        "lat": 43.7636,
+        "lon": 1.9952,
+        "capacite": 5000
+      }
+    ]
+  },
+  {
+    "id": "cannes",
+    "nom": "RC Cannes-Mandelieu",
+    "court": "Cannes",
+    "ville": "Mandelieu-la-Napoule",
+    "couleur": "#1a8f3c",
+    "wiki": "https://fr.wikipedia.org/wiki/Rugby_club_Cannes_Mandelieu",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Éric-Estivals",
+        "lat": 43.5516,
+        "lon": 6.9426,
+        "capacite": 2000
+      }
+    ]
+  },
+  {
+    "id": "puc",
+    "nom": "Paris université club",
+    "court": "PUC",
+    "ville": "Paris",
+    "couleur": "#6a2c91",
+    "wiki": "https://fr.wikipedia.org/wiki/Paris_université_club_(rugby_à_XV)",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Paris_UC.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Charléty",
+        "lat": 48.8172,
+        "lon": 2.3451,
+        "capacite": 20000
+      }
+    ]
+  },
+  {
+    "id": "auch",
+    "nom": "FC Auch Gers",
+    "court": "Auch",
+    "ville": "Auch",
+    "couleur": "#d2001f",
+    "wiki": "https://fr.wikipedia.org/wiki/Football_Club_Auch_Gers",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Football_club_Auch_Gers_2007.png",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Jacques-Fouroux",
+        "lat": 43.6333,
+        "lon": 0.5848,
+        "capacite": 7000
+      }
+    ]
+  },
+  {
+    "id": "perigueux",
+    "nom": "CA Périgueux Dordogne",
+    "court": "Périgueux",
+    "ville": "Périgueux",
+    "couleur": "#5bb4e5",
+    "wiki": "https://fr.wikipedia.org/wiki/Club_athlétique_Périgueux_Dordogne",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_CA_Périgueux_2014.png",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Francis-Rongiéras",
+        "lat": 45.1892,
+        "lon": 0.7036,
+        "capacite": 10000
+      }
+    ]
+  },
+  {
+    "id": "tarbes",
+    "nom": "Tarbes Pyrénées rugby",
+    "court": "Tarbes",
+    "ville": "Tarbes",
+    "couleur": "#e30613",
+    "wiki": "https://fr.wikipedia.org/wiki/Stado_Tarbes_Pyrénées_rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stado_Tarbes_Pyrénées_Rugby_-_2017.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Maurice-Trélut",
+        "lat": 43.2208,
+        "lon": 0.0723,
+        "capacite": 16400
+      }
+    ]
+  },
+  {
+    "id": "istres",
+    "nom": "Istres sports rugby",
+    "court": "Istres",
+    "ville": "Istres",
+    "couleur": "#6b2d8f",
+    "wiki": "https://fr.wikipedia.org/wiki/Istres_sports_rugby",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Audibert",
+        "lat": 43.502,
+        "lon": 4.98,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "valence-d-agen",
+    "nom": "Avenir valencien",
+    "court": "Valence d'Agen",
+    "ville": "Valence",
+    "couleur": "#1d5aa6",
+    "wiki": "https://fr.wikipedia.org/wiki/Avenir_valencien",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Avenir_Valencien_(logo).svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Évelyne-Jean-Baylet",
+        "lat": 44.0954,
+        "lon": 0.8908,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "romans",
+    "nom": "US romanaise et péageoise",
+    "court": "Romans",
+    "ville": "Romans-sur-Isère",
+    "couleur": "#1a1a1a",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_romanaise_et_péageoise",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Usromans.JPG",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Marcel-Guillermoz",
+        "lat": 45.0525,
+        "lon": 5.0573,
+        "capacite": 5000
+      }
+    ]
+  },
+  {
+    "id": "chateaurenard",
+    "nom": "RC Châteaurenard",
+    "court": "Châteaurenard",
+    "ville": "Châteaurenard",
+    "couleur": "#c0142b",
+    "wiki": "https://fr.wikipedia.org/wiki/Rugby_Club_Châteaurenard",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_RC_Châteaurenard.svg",
+    "stades": [
+      {
+        "depuis": "1995-96",
+        "nom": "Stade Pierre-de-Coubertin",
+        "lat": 43.8821,
+        "lon": 4.8657,
+        "capacite": 2085
+      }
+    ]
+  },
+  {
+    "id": "la-teste",
+    "nom": "US testerine",
+    "court": "La Teste",
+    "ville": "La Teste-de-Buch",
+    "couleur": "#14387f",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_testerine",
+    "stades": [
+      {
+        "depuis": "1996-97",
+        "nom": "Stade Bonneval",
+        "lat": 44.6197,
+        "lon": -1.1191,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "marmande",
+    "nom": "US Marmande",
+    "court": "Marmande",
+    "ville": "Marmande",
+    "couleur": "#2a62b8",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_Marmande_rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Union_sportive_Marmande_rugby_2021.svg",
+    "stades": [
+      {
+        "depuis": "1996-97",
+        "nom": "Stade Georges-Dartiailh",
+        "lat": 44.507,
+        "lon": 0.1588,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "peyrehorade",
+    "nom": "Peyrehorade sports rugby",
+    "court": "Peyrehorade",
+    "ville": "Peyrehorade",
+    "couleur": "#13853e",
+    "wiki": "https://fr.wikipedia.org/wiki/Peyrehorade_Sports_Rugby_Pays_d'Orthe_et_Arrigans",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Peyrehorade_SR.png",
+    "stades": [
+      {
+        "depuis": "1996-97",
+        "nom": "Stade Docteur-Joseph-Dabadie",
+        "lat": 43.548,
+        "lon": -1.0911,
+        "capacite": 2000
+      }
+    ]
+  },
+  {
+    "id": "aubenas",
+    "nom": "RC Aubenas Vals",
+    "court": "Aubenas",
+    "ville": "Aubenas",
+    "couleur": "#f0b400",
+    "wiki": "https://fr.wikipedia.org/wiki/Rugby_Club_Aubenas_Vals",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Rugby_Club_Aubenas_Vals.svg",
+    "stades": [
+      {
+        "depuis": "2000-01",
+        "nom": "Stade Georges-Marquand",
+        "lat": 44.6373,
+        "lon": 4.3874,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "tours",
+    "nom": "US Tours rugby",
+    "court": "Tours",
+    "ville": "Tours",
+    "couleur": "#f28c00",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_Tours_rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_US_Tours.svg",
+    "stades": [
+      {
+        "depuis": "2001-02",
+        "nom": "Stade Tonnellé",
+        "lat": 47.3825,
+        "lon": 0.667,
+        "capacite": 4000
+      }
+    ]
+  },
+  {
+    "id": "limoges",
+    "nom": "USA Limoges",
+    "court": "Limoges",
+    "ville": "Limoges",
+    "couleur": "#1b3f94",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_athlétique_de_Limoges",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Limoges_rugby_(2).svg",
+    "stades": [
+      {
+        "depuis": "2003-04",
+        "nom": "Stade de Beaublanc",
+        "lat": 45.8482,
+        "lon": 1.2412,
+        "capacite": 13182
+      }
+    ]
+  },
+  {
+    "id": "gaillac",
+    "nom": "UA gaillacoise",
+    "court": "Gaillac",
+    "ville": "Gaillac",
+    "couleur": "#b01020",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_athlétique_gaillacoise",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Union_athlétique_gaillacoise.png",
+    "stades": [
+      {
+        "depuis": "2006-07",
+        "nom": "Stade Laborie",
+        "lat": 43.9112,
+        "lon": 1.8995,
+        "capacite": 4792
+      }
+    ]
+  },
+  {
+    "id": "blagnac",
+    "nom": "Blagnac SC rugby",
+    "court": "Blagnac",
+    "ville": "Blagnac",
+    "couleur": "#d7141f",
+    "wiki": "https://fr.wikipedia.org/wiki/Blagnac_Sporting_Club_rugby",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Blagnac_Sporting_Club_Rugby_-_2024.svg",
+    "stades": [
+      {
+        "depuis": "2007-08",
+        "nom": "Stade Ernest-Argelès",
+        "lat": 43.6369,
+        "lon": 1.4017,
+        "capacite": 4000
+      }
+    ]
+  },
+  {
+    "id": "lannemezan",
+    "nom": "CA lannemezanais",
+    "court": "Lannemezan",
+    "ville": "Lannemezan",
+    "couleur": "#cc1122",
+    "wiki": "https://fr.wikipedia.org/wiki/Cercle_amical_lannemezanais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_CA_Lannemezan.svg",
+    "stades": [
+      {
+        "depuis": "2009-10",
+        "nom": "Stade François-Sarrat",
+        "lat": 43.1265,
+        "lon": 0.3885,
+        "capacite": 5000
+      }
+    ]
+  },
+  {
+    "id": "saint-etienne",
+    "nom": "CA Saint-Étienne Loire sud",
+    "court": "Saint-Étienne",
+    "ville": "Saint-Étienne",
+    "couleur": "#0a8a3a",
+    "wiki": "https://fr.wikipedia.org/wiki/Club_athlétique_de_Saint-Étienne_Loire_sud_rugby",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/CA_Saint-Etienne_Logo.jpg",
+    "stades": [
+      {
+        "depuis": "2010-11",
+        "nom": "Stade de l'Étivallière",
+        "lat": 45.4635,
+        "lon": 4.3869,
+        "capacite": 3000
+      }
+    ]
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "psg",
+    "nom": "Paris Saint-Germain Handball",
+    "court": "PSG",
+    "ville": "Paris",
+    "couleur": "#004170",
+    "wiki": "https://fr.wikipedia.org/wiki/Paris_Saint-Germain_(handball)",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Paris_Saint-Germain_Handball_logo.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stade Pierre-de-Coubertin",
+        "lat": 48.8353,
+        "lon": 2.2562,
+        "capacite": 3344
+      }
+    ]
+  },
+  {
+    "id": "nantes",
+    "nom": "HBC Nantes",
+    "court": "Nantes",
+    "ville": "Nantes",
+    "couleur": "#5c2d91",
+    "wiki": "https://fr.wikipedia.org/wiki/Handball_Club_de_Nantes",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/HBC_Nantes_2011_logo.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle de la Trocardière",
+        "lat": 47.1815,
+        "lon": -1.5723,
+        "capacite": 4500
+      },
+      {
+        "depuis": "2018-19",
+        "nom": "H Arena",
+        "lat": 47.2094,
+        "lon": -1.5368,
+        "capacite": 5902
+      }
+    ]
+  },
+  {
+    "id": "montpellier",
+    "nom": "Montpellier Handball",
+    "court": "Montpellier",
+    "ville": "Montpellier",
+    "couleur": "#0072bc",
+    "wiki": "https://fr.wikipedia.org/wiki/Montpellier_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Montpellier_M%C3%A9diterran%C3%A9e_M%C3%A9tropole_Handball_logo_2018.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports René-Bougnol",
+        "lat": 43.6382,
+        "lon": 3.8739,
+        "capacite": 2900
+      }
+    ]
+  },
+  {
+    "id": "chambery",
+    "nom": "Chambéry Savoie Mont-Blanc Handball",
+    "court": "Chambéry",
+    "ville": "Chambéry",
+    "couleur": "#f6d600",
+    "wiki": "https://fr.wikipedia.org/wiki/Chamb%C3%A9ry_Savoie_Mont_Blanc_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Chamb%C3%A9ry_Savoie_Mont-Blanc_handball_logo.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Le Phare",
+        "lat": 45.5836,
+        "lon": 5.8997,
+        "capacite": 4423
+      }
+    ]
+  },
+  {
+    "id": "saint-raphael",
+    "nom": "Saint-Raphaël Var Handball",
+    "court": "Saint-Raphaël",
+    "ville": "Saint-Raphaël",
+    "couleur": "#003f8a",
+    "wiki": "https://fr.wikipedia.org/wiki/Saint-Rapha%C3%ABl_Var_Handball",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Blason-SaintRaphaelVarHandball-2024.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Jean-François-Krakowski",
+        "lat": 43.438,
+        "lon": 6.7689,
+        "capacite": 2500
+      }
+    ]
+  },
+  {
+    "id": "toulouse",
+    "nom": "Fenix Toulouse Handball",
+    "court": "Toulouse",
+    "ville": "Toulouse",
+    "couleur": "#1d3f94",
+    "wiki": "https://fr.wikipedia.org/wiki/Fenix_Toulouse_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/F%C3%A9nix_Toulouse_Handball_2016_logo.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports André-Brouat",
+        "lat": 43.6124,
+        "lon": 1.4356,
+        "capacite": 3850
+      }
+    ]
+  },
+  {
+    "id": "tremblay",
+    "nom": "Tremblay Handball",
+    "court": "Tremblay",
+    "ville": "Tremblay-en-France",
+    "couleur": "#f7c600",
+    "wiki": "https://fr.wikipedia.org/wiki/Tremblay_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_du_Tremblay_Handball.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports de Tremblay-en-France",
+        "lat": 48.9573,
+        "lon": 2.5701,
+        "capacite": 1020
+      }
+    ]
+  },
+  {
+    "id": "aix",
+    "nom": "Pays d'Aix Université Club Handball",
+    "court": "Aix",
+    "ville": "Aix-en-Provence",
+    "couleur": "#e30613",
+    "wiki": "https://fr.wikipedia.org/wiki/Provence_Aix_Universit%C3%A9_Club_handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Pays_d%27Aix_Universit%C3%A9_Club_Handball_2017_logo.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Gymnase du Val de l'Arc",
+        "lat": 43.5131,
+        "lon": 5.4638,
+        "capacite": 1200
+      },
+      {
+        "depuis": "2017-18",
+        "nom": "Arena du Pays d'Aix",
+        "lat": 43.4743,
+        "lon": 5.4065,
+        "capacite": 6004
+      }
+    ]
+  },
+  {
+    "id": "cesson",
+    "nom": "Cesson Rennes Métropole HB",
+    "court": "Cesson-Rennes",
+    "ville": "Cesson-Sévigné",
+    "couleur": "#e5007d",
+    "wiki": "https://fr.wikipedia.org/wiki/Cesson_Rennes_M%C3%A9tropole_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_du_Cesson-Rennes_M%C3%A9tropole_HB.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports de la Valette",
+        "lat": 48.1149,
+        "lon": -1.5962,
+        "capacite": 1400
+      },
+      {
+        "depuis": "2019-20",
+        "nom": "Glaz Arena",
+        "lat": 48.1134,
+        "lon": -1.5954,
+        "capacite": 4500
+      }
+    ]
+  },
+  {
+    "id": "nimes",
+    "nom": "USAM Nîmes Gard",
+    "court": "Nîmes",
+    "ville": "Nîmes",
+    "couleur": "#009640",
+    "wiki": "https://fr.wikipedia.org/wiki/USAM_N%C3%AEmes_Gard",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/USAM_N%C3%AEmes_Gard_logo.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Le Parnasse",
+        "lat": 43.817,
+        "lon": 4.3633,
+        "capacite": 3391
+      }
+    ]
+  },
+  {
+    "id": "selestat",
+    "nom": "Sélestat Alsace Handball",
+    "court": "Sélestat",
+    "ville": "Sélestat",
+    "couleur": "#6a2c8e",
+    "wiki": "https://fr.wikipedia.org/wiki/S%C3%A9lestat_Alsace_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/S%C3%A9lestat_Alsace_handball_2017.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Centre sportif intercommunal",
+        "lat": 48.2518,
+        "lon": 7.4501,
+        "capacite": 2300
+      }
+    ]
+  },
+  {
+    "id": "dunkerque",
+    "nom": "Dunkerque Handball Grand Littoral",
+    "court": "Dunkerque",
+    "ville": "Dunkerque",
+    "couleur": "#f2b700",
+    "wiki": "https://fr.wikipedia.org/wiki/Dunkerque_Handball_Grand_Littoral",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_du_USDK.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Stades de Flandres",
+        "lat": 51.0361,
+        "lon": 2.3896,
+        "capacite": 2400
+      }
+    ]
+  },
+  {
+    "id": "chartres",
+    "nom": "C' Chartres Métropole Handball",
+    "court": "Chartres",
+    "ville": "Chartres",
+    "couleur": "#5bc2e7",
+    "wiki": "https://fr.wikipedia.org/wiki/C'_Chartres_M%C3%A9tropole_handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Blason_CCMHB_%282%29.jpg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle Jean-Cochet",
+        "lat": 48.4506,
+        "lon": 1.5045,
+        "capacite": 1200
+      },
+      {
+        "depuis": "2024-25",
+        "nom": "Le Colisée",
+        "lat": 48.4478,
+        "lon": 1.4783,
+        "capacite": 3810
+      }
+    ]
+  },
+  {
+    "id": "saran",
+    "nom": "Saran Loiret Handball",
+    "court": "Saran",
+    "ville": "Saran",
+    "couleur": "#0055a4",
+    "wiki": "https://fr.wikipedia.org/wiki/Saran_Loiret_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_2019_Saran_Loiret_Handball.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle du Bois Joly",
+        "lat": 47.9467,
+        "lon": 1.8885,
+        "capacite": 950
+      },
+      {
+        "depuis": "2023-24",
+        "nom": "Palais des sports d'Orléans",
+        "lat": 47.9097,
+        "lon": 1.9119,
+        "capacite": 2867
+      }
+    ]
+  },
+  {
+    "id": "caen",
+    "nom": "Caen Handball",
+    "court": "Caen",
+    "ville": "Caen",
+    "couleur": "#d2001e",
+    "wiki": "https://fr.wikipedia.org/wiki/Caen_Handball",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports de Caen",
+        "lat": 49.1712,
+        "lon": -0.3852,
+        "capacite": 3700
+      }
+    ]
+  },
+  {
+    "id": "limoges",
+    "nom": "Limoges Handball",
+    "court": "Limoges",
+    "ville": "Limoges",
+    "couleur": "#0050a0",
+    "wiki": "https://fr.wikipedia.org/wiki/Limoges_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Limoges_Handball.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Henri-Normand",
+        "lat": 45.8306,
+        "lon": 1.2201,
+        "capacite": 1300
+      },
+      {
+        "depuis": "2022-23",
+        "nom": "Palais des sports de Beaublanc",
+        "lat": 45.8475,
+        "lon": 1.2434,
+        "capacite": 3902
+      }
+    ]
+  },
+  {
+    "id": "istres",
+    "nom": "Istres Provence Handball",
+    "court": "Istres",
+    "ville": "Istres",
+    "couleur": "#6d2077",
+    "wiki": "https://fr.wikipedia.org/wiki/Istres_Provence_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Istres_Provence_handball.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle polyvalente",
+        "lat": 43.5041,
+        "lon": 4.9877,
+        "capacite": 1400
+      }
+    ]
+  },
+  {
+    "id": "ivry",
+    "nom": "US Ivry Handball",
+    "court": "Ivry",
+    "ville": "Ivry-sur-Seine",
+    "couleur": "#d0021b",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_d'Ivry_(handball)",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/US_Ivry_Handball_logo_2016.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Gymnase Auguste-Delaune",
+        "lat": 48.8079,
+        "lon": 2.3863,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "creteil",
+    "nom": "US Créteil Handball",
+    "court": "Créteil",
+    "ville": "Créteil",
+    "couleur": "#1b2a5a",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_de_Cr%C3%A9teil_handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/US_Cr%C3%A9teil_handball_logo_2015.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Robert-Oubron",
+        "lat": 48.788,
+        "lon": 2.4412,
+        "capacite": 2398
+      }
+    ]
+  },
+  {
+    "id": "massy",
+    "nom": "Massy Essonne Handball",
+    "court": "Massy",
+    "ville": "Massy",
+    "couleur": "#1f3c88",
+    "wiki": "https://fr.wikipedia.org/wiki/Massy_Essonne_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Massy_Essonne_Handball_logo.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Centre omnisports Pierre-de-Coubertin",
+        "lat": 48.7314,
+        "lon": 2.2926,
+        "capacite": 800
+      }
+    ]
+  },
+  {
+    "id": "pontault",
+    "nom": "Pontault-Combault Handball",
+    "court": "Pontault",
+    "ville": "Pontault-Combault",
+    "couleur": "#0057b8",
+    "wiki": "https://fr.wikipedia.org/wiki/Pontault-Combault_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Pontault-Combault_handball.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Espace Roger-Boisramé",
+        "lat": 48.7913,
+        "lon": 2.6047,
+        "capacite": 1300
+      }
+    ]
+  },
+  {
+    "id": "dijon",
+    "nom": "Dijon Métropole Handball",
+    "court": "Dijon",
+    "ville": "Dijon",
+    "couleur": "#0072ce",
+    "wiki": "https://fr.wikipedia.org/wiki/Dijon_M%C3%A9tropole_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Dijon_M%C3%A9tropole_handball_logo.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Jean-Michel-Geoffroy",
+        "lat": 47.332,
+        "lon": 5.0559,
+        "capacite": 3200
+      }
+    ]
+  },
+  {
+    "id": "besancon",
+    "nom": "Grand Besançon Doubs Handball",
+    "court": "Besançon",
+    "ville": "Besançon",
+    "couleur": "#0b4ea2",
+    "wiki": "https://fr.wikipedia.org/wiki/Grand_Besan%C3%A7on_Doubs_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_du_GBDH.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Ghani-Yalouz",
+        "lat": 47.2453,
+        "lon": 6.0,
+        "capacite": 3280
+      }
+    ]
+  },
+  {
+    "id": "pau-billere",
+    "nom": "Pau Billère Handball",
+    "court": "Pau-Billère",
+    "ville": "Billère",
+    "couleur": "#e4002b",
+    "wiki": "https://fr.wikipedia.org/wiki/Pau_Bill%C3%A8re_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_du_Pau_Bill%C3%A8re_Handball_2024.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Sporting d'Este",
+        "lat": 43.3061,
+        "lon": -0.3967,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "valence",
+    "nom": "Valence Drôme Handball",
+    "court": "Valence",
+    "ville": "Valence",
+    "couleur": "#d71920",
+    "wiki": "https://fr.wikipedia.org/wiki/Valence_Dr%C3%B4me_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/ValenceDr%C3%B4meHandball.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Pierre-Mendès-France",
+        "lat": 44.9146,
+        "lon": 4.9183,
+        "capacite": 2000
+      }
+    ]
+  },
+  {
+    "id": "cherbourg",
+    "nom": "JS Cherbourg Manche Handball",
+    "court": "Cherbourg",
+    "ville": "Cherbourg-en-Cotentin",
+    "couleur": "#50318c",
+    "wiki": "https://fr.wikipedia.org/wiki/Jeunesse_sportive_de_Cherbourg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Complexe sportif de Chantereyne",
+        "lat": 49.6457,
+        "lon": -1.6271,
+        "capacite": 2600
+      },
+      {
+        "depuis": "2022-23",
+        "nom": "Gymnase Jean-Jaurès",
+        "lat": 49.6483,
+        "lon": -1.6561,
+        "capacite": 1975
+      }
+    ]
+  },
+  {
+    "id": "nancy",
+    "nom": "Grand Nancy Métropole Handball",
+    "court": "Nancy",
+    "ville": "Nancy",
+    "couleur": "#1b2a5a",
+    "wiki": "https://fr.wikipedia.org/wiki/Nancy_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_du_Nancy_Handball.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Parc des sports de Vandœuvre Nations",
+        "lat": 48.6629,
+        "lon": 6.1783,
+        "capacite": 1150
+      },
+      {
+        "depuis": "2020-21",
+        "nom": "Palais des sports Jean-Weille",
+        "lat": 48.6992,
+        "lon": 6.1394,
+        "capacite": 6027
+      },
+      {
+        "depuis": "2021-22",
+        "nom": "Parc des sports de Vandœuvre Nations",
+        "lat": 48.6629,
+        "lon": 6.1783,
+        "capacite": 1150
+      },
+      {
+        "depuis": "2023-24",
+        "nom": "Palais des sports Jean-Weille",
+        "lat": 48.6992,
+        "lon": 6.1394,
+        "capacite": 6027
+      }
+    ]
+  },
+  {
+    "id": "sarrebourg",
+    "nom": "Sarrebourg Moselle-Sud Handball",
+    "court": "Sarrebourg",
+    "ville": "Sarrebourg",
+    "couleur": "#f4c300",
+    "wiki": "https://fr.wikipedia.org/wiki/Sarrebourg_Moselle-Sud_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/SarrebourgMoselleSud_logo2020.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Centre sportif Pierre-de-Coubertin",
+        "lat": 48.7356,
+        "lon": 7.0702,
+        "capacite": 1000
+      }
+    ]
+  },
+  {
+    "id": "angers",
+    "nom": "Angers SCO Handball",
+    "court": "Angers",
+    "ville": "Angers",
+    "couleur": "#111111",
+    "wiki": "https://fr.wikipedia.org/wiki/Angers_SCO_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Angers_SCO_Handball_%282021%29.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Jean-Bouin",
+        "lat": 47.4599,
+        "lon": -0.5317,
+        "capacite": 3000
+      },
+      {
+        "depuis": "2023-24",
+        "nom": "Salle du Haras",
+        "lat": 47.4661,
+        "lon": -0.5534,
+        "capacite": 1260
+      }
+    ]
+  },
+  {
+    "id": "nice",
+    "nom": "Cavigal Nice Handball",
+    "court": "Nice",
+    "ville": "Nice",
+    "couleur": "#c8102e",
+    "wiki": "https://fr.wikipedia.org/wiki/Cavigal_Nice_handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Cavigal_Nice_Handball.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Pasteur",
+        "lat": 43.7226,
+        "lon": 7.2836,
+        "capacite": 600
+      }
+    ]
+  },
+  {
+    "id": "strasbourg",
+    "nom": "Strasbourg Eurométropole Handball",
+    "court": "Strasbourg",
+    "ville": "Schiltigheim",
+    "couleur": "#005baa",
+    "wiki": "https://fr.wikipedia.org/wiki/Strasbourg_Eurom%C3%A9tropole_Handball",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Gymnase des Malteries",
+        "lat": 48.6046,
+        "lon": 7.7434,
+        "capacite": 1200
+      }
+    ]
+  },
+  {
+    "id": "grenoble",
+    "nom": "Grenoble SMH Métropole Isère Handball",
+    "court": "Grenoble-SMH",
+    "ville": "Saint-Martin-d'Hères",
+    "couleur": "#d7191c",
+    "wiki": "https://fr.wikipedia.org/wiki/Grenoble_Saint-Martin-d'H%C3%A8res_M%C3%A9tropole_Is%C3%A8re_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_du_Grenoble-Saint-Martin-d%27H%C3%A8res_GUC_Handball.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle Pablo-Neruda",
+        "lat": 45.1725,
+        "lon": 5.7626,
+        "capacite": 620
+      }
+    ]
+  },
+  {
+    "id": "vernon",
+    "nom": "Saint-Marcel Vernon Handball",
+    "court": "Vernon",
+    "ville": "Vernon",
+    "couleur": "#1e4fa0",
+    "wiki": "https://fr.wikipedia.org/wiki/Saint-Marcel_Vernon_Handball",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Gymnase du Grévarin",
+        "lat": 49.0896,
+        "lon": 1.4865,
+        "capacite": 1300
+      }
+    ]
+  },
+  {
+    "id": "villeurbanne",
+    "nom": "Villeurbanne Handball Association",
+    "court": "Villeurbanne",
+    "ville": "Villeurbanne",
+    "couleur": "#f7d117",
+    "wiki": "https://fr.wikipedia.org/wiki/Villeurbanne_Handball_Association",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/VilleurbanneHA.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle des Gratte-Ciel",
+        "lat": 45.7708,
+        "lon": 4.8763,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "evo",
+    "nom": "Élite Val d'Oise Handball",
+    "court": "Val d'Oise",
+    "ville": "Saint-Gratien",
+    "couleur": "#0f346c",
+    "wiki": "https://fr.wikipedia.org/wiki/%C3%89lite_Val_d'Oise_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/LogoEVO.webp",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Michel-Hidalgo",
+        "lat": 48.9752,
+        "lon": 2.2753,
+        "capacite": 900
+      },
+      {
+        "depuis": "2026-27",
+        "nom": "Salle Luc-Abalo (Athletica)",
+        "lat": 48.9775,
+        "lon": 2.281,
+        "capacite": 1050
+      }
+    ]
+  },
+  {
+    "id": "frontignan",
+    "nom": "Frontignan Thau Handball",
+    "court": "Frontignan",
+    "ville": "Frontignan",
+    "couleur": "#0077c8",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Henri-Ferrari",
+        "lat": 43.4382,
+        "lon": 3.7411,
+        "capacite": 704
+      }
+    ]
+  },
+  {
+    "id": "cournon",
+    "nom": "HBC Cournon-d'Auvergne",
+    "court": "Cournon",
+    "ville": "Cournon-d'Auvergne",
+    "couleur": "#e30613",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Maison des sports de Clermont-Ferrand",
+        "lat": 45.7859,
+        "lon": 3.0867,
+        "capacite": 4655
+      }
+    ]
+  },
+  {
+    "id": "bordeaux",
+    "nom": "Bordeaux Bruges Lormont Handball",
+    "court": "Bordeaux BL",
+    "ville": "Bruges",
+    "couleur": "#7a1f3d",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Jean-Gaudet",
+        "lat": 44.8873,
+        "lon": -0.5911,
+        "capacite": 500
+      }
+    ]
+  },
+  {
+    "id": "saintes",
+    "nom": "US Saintes Handball",
+    "court": "Saintes",
+    "ville": "Saintes",
+    "couleur": "#f28c00",
+    "wiki": "https://fr.wikipedia.org/wiki/Union_sportive_de_Saintes_Handball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/US_Saintes_Handball.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Complexe du Grand Coudret",
+        "lat": 45.734,
+        "lon": -0.6133,
+        "capacite": 1700
+      }
+    ]
+  },
+  {
+    "id": "draguignan",
+    "nom": "Draguignan Var Handball",
+    "court": "Draguignan",
+    "ville": "Draguignan",
+    "couleur": "#d71920",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Carbonnel",
+        "lat": 43.5353,
+        "lon": 6.4644,
+        "capacite": 1260
+      }
+    ]
+  }
+]

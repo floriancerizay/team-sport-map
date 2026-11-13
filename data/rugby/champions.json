@@ -1,0 +1,117 @@
+{
+  "1995-96": {
+    "top14": "toulouse"
+  },
+  "1996-97": {
+    "top14": "toulouse"
+  },
+  "1997-98": {
+    "top14": "stade-francais"
+  },
+  "1998-99": {
+    "top14": "toulouse"
+  },
+  "1999-00": {
+    "top14": "stade-francais"
+  },
+  "2000-01": {
+    "top14": "toulouse",
+    "prod2": "montauban"
+  },
+  "2001-02": {
+    "top14": "biarritz",
+    "prod2": "mont-de-marsan"
+  },
+  "2002-03": {
+    "top14": "stade-francais",
+    "prod2": "montpellier"
+  },
+  "2003-04": {
+    "top14": "stade-francais",
+    "prod2": "auch"
+  },
+  "2004-05": {
+    "top14": "biarritz",
+    "prod2": "toulon"
+  },
+  "2005-06": {
+    "top14": "biarritz",
+    "prod2": "montauban"
+  },
+  "2006-07": {
+    "top14": "stade-francais",
+    "prod2": "auch"
+  },
+  "2007-08": {
+    "top14": "toulouse",
+    "prod2": "toulon"
+  },
+  "2008-09": {
+    "top14": "perpignan",
+    "prod2": "racing92"
+  },
+  "2009-10": {
+    "top14": "clermont",
+    "prod2": "agen"
+  },
+  "2010-11": {
+    "top14": "toulouse",
+    "prod2": "lyon"
+  },
+  "2011-12": {
+    "top14": "toulouse",
+    "prod2": "grenoble"
+  },
+  "2012-13": {
+    "top14": "castres",
+    "prod2": "oyonnax"
+  },
+  "2013-14": {
+    "top14": "toulon",
+    "prod2": "lyon"
+  },
+  "2014-15": {
+    "top14": "stade-francais",
+    "prod2": "pau"
+  },
+  "2015-16": {
+    "top14": "racing92",
+    "prod2": "lyon"
+  },
+  "2016-17": {
+    "top14": "clermont",
+    "prod2": "oyonnax"
+  },
+  "2017-18": {
+    "top14": "castres",
+    "prod2": "perpignan"
+  },
+  "2018-19": {
+    "top14": "toulouse",
+    "prod2": "bayonne"
+  },
+  "2020-21": {
+    "top14": "toulouse",
+    "prod2": "perpignan"
+  },
+  "2021-22": {
+    "top14": "montpellier",
+    "prod2": "bayonne"
+  },
+  "2022-23": {
+    "top14": "toulouse",
+    "prod2": "oyonnax"
+  },
+  "2023-24": {
+    "top14": "toulouse",
+    "prod2": "vannes"
+  },
+  "2024-25": {
+    "top14": "toulouse",
+    "prod2": "montauban"
+  },
+  "2025-26": {
+    "top14": "toulouse",
+    "prod2": "vannes"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "2016-17": {
+    "elite": "chalon",
+    "elite2": "bourg"
+  },
+  "2017-18": {
+    "elite": "le-mans",
+    "elite2": "blois"
+  },
+  "2018-19": {
+    "elite": "asvel",
+    "elite2": "roanne"
+  },
+  "2020-21": {
+    "elite": "asvel",
+    "elite2": "fos"
+  },
+  "2021-22": {
+    "elite": "asvel",
+    "elite2": "nancy"
+  },
+  "2022-23": {
+    "elite": "monaco",
+    "elite2": "saint-quentin"
+  },
+  "2023-24": {
+    "elite": "monaco",
+    "elite2": "la-rochelle"
+  },
+  "2024-25": {
+    "elite": "paris",
+    "elite2": "boulazac"
+  },
+  "2025-26": {
+    "elite": "monaco",
+    "elite2": "roanne"
+  }
+}

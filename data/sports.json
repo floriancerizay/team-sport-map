@@ -1,0 +1,82 @@
+{
+  "rugby": {
+    "nom": "Rugby",
+    "icone": "🏉",
+    "ligues": [
+      {
+        "id": "top14",
+        "nom": "Top 14",
+        "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Top_14.svg"
+      },
+      {
+        "id": "prod2",
+        "nom": "Pro D2",
+        "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/ProD2_logo_2012.svg"
+      }
+    ]
+  },
+  "football": {
+    "nom": "Football",
+    "icone": "⚽",
+    "ligues": [
+      {
+        "id": "ligue1",
+        "nom": "Ligue 1",
+        "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Ligue_1_2024.svg"
+      },
+      {
+        "id": "ligue2",
+        "nom": "Ligue 2",
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Ligue_2_BKT_2024.svg"
+      }
+    ]
+  },
+  "basket": {
+    "nom": "Basket",
+    "icone": "🏀",
+    "ligues": [
+      {
+        "id": "elite",
+        "nom": "Pro A",
+        "renommages": [
+          {
+            "depuis": "2017-18",
+            "nom": "Jeep Élite"
+          },
+          {
+            "depuis": "2021-22",
+            "nom": "Betclic Élite"
+          }
+        ],
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logomarca_da_Liga_Betclic_Élite_para_a_temporada_2024-25.png"
+      },
+      {
+        "id": "elite2",
+        "nom": "Pro B",
+        "renommages": [
+          {
+            "depuis": "2023-24",
+            "nom": "Élite 2"
+          }
+        ],
+        "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Élite_2_Logo.svg"
+      }
+    ]
+  },
+  "handball": {
+    "nom": "Handball",
+    "icone": "🤾",
+    "ligues": [
+      {
+        "id": "starligue",
+        "nom": "Starligue",
+        "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_LiquiMoly_Starligue_2021.png"
+      },
+      {
+        "id": "proligue",
+        "nom": "Proligue",
+        "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Proligue_2021.png"
+      }
+    ]
+  }
+}

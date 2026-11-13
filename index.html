@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Team Sport Map</title>
+  <meta name="description" content="Le club de rugby, football, basket ou handball le plus proche, partout en France, saison par saison.">
+  <meta property="og:title" content="Team Sport Map">
+  <meta property="og:description" content="Le club pro le plus proche, partout en France, saison par saison.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231d1d1f'/%3E%3Cpath d='M16 5 6 11v10l10 6 10-6V11z' fill='none' stroke='%23fff' stroke-width='2'/%3E%3Cpath d='M16 5v22M6 11l20 10M26 11 6 21' stroke='%23fff' stroke-width='1.5'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <aside id="panneau">
+    <header>
+      <h1>Team Sport Map</h1>
+      <p>Le club pro le plus proche, partout en France.</p>
+    </header>
+
+    <div id="ctrl-a" class="controles"></div>
+
+    <label class="case comparer"><input type="checkbox" id="cmp-actif"> Comparer avec une 2ᵉ carte</label>
+    <div id="ctrl-b" class="controles" hidden></div>
+
+    <details id="options">
+      <summary>Options</summary>
+      <label class="case"><input type="checkbox" id="desert-actif"> Zones désertes</label>
+      <div class="ligne" id="desert-reglage" hidden>
+        <input type="range" id="desert-km" min="75" max="200" step="5" value="120" aria-label="Seuil en km">
+        <output id="desert-valeur">120 km</output>
+      </div>
+      <p id="desert-stats" class="note" hidden></p>
+    </details>
+
+    <div id="resultat" class="note"></div>
+
+    <div class="segment" id="tableau-choix" role="radiogroup" aria-label="Tableau" hidden></div>
+    <table id="secteurs">
+      <thead>
+        <tr>
+
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <button type="button" id="exporter">Exporter en PNG</button>
+    <footer class="note">
+      Secteurs : Voronoï des stades, découpés sur la métropole. Population : INSEE via geo.api.gouv.fr. Logos : Wikimedia, marques de leurs titulaires.
+      Fond de carte : Plan IGN (Géoplateforme).
+    </footer>
+  </aside>
+
+  <main id="cartes">
+    <div id="carte-a" class="carte"></div>
+    <div id="carte-b" class="carte" hidden></div>
+    <section id="fiche" hidden>
+      <button type="button" class="icone fermer" aria-label="Fermer">×</button>
+      <div id="fiche-contenu"></div>
+    </section>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7.1.0/turf.min.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

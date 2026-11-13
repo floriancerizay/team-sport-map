@@ -1,0 +1,954 @@
+[
+  {
+    "id": "monaco",
+    "nom": "AS Monaco Basket",
+    "court": "Monaco",
+    "ville": "Monaco",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Association_sportive_de_Monaco_(basket-ball)",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_AS_Monaco_Basket.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Gaston-Médecin",
+        "lat": 43.7276,
+        "lon": 7.4156,
+        "capacite": 5000
+      }
+    ]
+  },
+  {
+    "id": "sig",
+    "nom": "SIG Strasbourg",
+    "court": "Strasbourg",
+    "ville": "Strasbourg",
+    "couleur": "#c5243a",
+    "wiki": "https://fr.wikipedia.org/wiki/SIG_Strasbourg",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_officiel_SIG_Strasbourg.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Rhénus Sport",
+        "lat": 48.6003,
+        "lon": 7.7647,
+        "capacite": 6200
+      }
+    ]
+  },
+  {
+    "id": "le-mans",
+    "nom": "Le Mans Sarthe Basket",
+    "court": "Le Mans",
+    "ville": "Le Mans",
+    "couleur": "#ff5a00",
+    "wiki": "https://fr.wikipedia.org/wiki/Le_Mans_Sarthe_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Le_Mans_Sarthe_Basket_-_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Antarès",
+        "lat": 47.9561,
+        "lon": 0.2261,
+        "capacite": 6023
+      }
+    ]
+  },
+  {
+    "id": "chalon",
+    "nom": "Élan Chalon",
+    "court": "Chalon",
+    "ville": "Chalon-sur-Saône",
+    "couleur": "#e4021a",
+    "wiki": "https://fr.wikipedia.org/wiki/%C3%89lan_sportif_chalonnais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Elan_Chalon_2018.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Le Colisée",
+        "lat": 46.7866,
+        "lon": 4.8653,
+        "capacite": 4540
+      }
+    ]
+  },
+  {
+    "id": "asvel",
+    "nom": "LDLC ASVEL",
+    "court": "ASVEL",
+    "ville": "Villeurbanne",
+    "couleur": "#1a1a1a",
+    "wiki": "https://fr.wikipedia.org/wiki/ASVEL_Lyon-Villeurbanne",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_ASVEL_Lyon_Villeurbanne_-_2018.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Astroballe",
+        "lat": 45.7661,
+        "lon": 4.9073,
+        "capacite": 5556
+      }
+    ]
+  },
+  {
+    "id": "gravelines",
+    "nom": "BCM Gravelines-Dunkerque",
+    "court": "Gravelines",
+    "ville": "Gravelines",
+    "couleur": "#fd6902",
+    "wiki": "https://fr.wikipedia.org/wiki/Basket_Club_Maritime_Gravelines_Dunkerque_Grand_Littoral",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_BCM_Gravelines-Dunkerque_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Sportica",
+        "lat": 50.9982,
+        "lon": 2.1223,
+        "capacite": 3043
+      },
+      {
+        "depuis": "2023-24",
+        "nom": "Stades de Flandres",
+        "lat": 51.0361,
+        "lon": 2.3896,
+        "capacite": 2500
+      }
+    ]
+  },
+  {
+    "id": "pau",
+    "nom": "Élan béarnais Pau-Lacq-Orthez",
+    "court": "Pau",
+    "ville": "Pau",
+    "couleur": "#1c9984",
+    "wiki": "https://fr.wikipedia.org/wiki/%C3%89lan_b%C3%A9arnais_Pau-Lacq-Orthez",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_%C3%89lan_b%C3%A9arnais_Pau-Lacq-Orthez_-_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports de Pau",
+        "lat": 43.3345,
+        "lon": -0.3627,
+        "capacite": 7707
+      }
+    ]
+  },
+  {
+    "id": "nanterre",
+    "nom": "Nanterre 92",
+    "court": "Nanterre",
+    "ville": "Nanterre",
+    "couleur": "#00843d",
+    "wiki": "https://fr.wikipedia.org/wiki/Nanterre_92",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Nanterre_92_-_2016.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Maurice-Thorez",
+        "lat": 48.8927,
+        "lon": 2.2104,
+        "capacite": 3000
+      }
+    ]
+  },
+  {
+    "id": "dijon",
+    "nom": "JDA Dijon Basket",
+    "court": "Dijon",
+    "ville": "Dijon",
+    "couleur": "#e30613",
+    "wiki": "https://fr.wikipedia.org/wiki/Jeanne_d'Arc_Dijon_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_JDA_Dijon_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Jean-Michel-Geoffroy",
+        "lat": 47.332,
+        "lon": 5.0559,
+        "capacite": 5000
+      }
+    ]
+  },
+  {
+    "id": "limoges",
+    "nom": "Limoges CSP",
+    "court": "Limoges",
+    "ville": "Limoges",
+    "couleur": "#007a46",
+    "wiki": "https://fr.wikipedia.org/wiki/Limoges_Cercle_Saint-Pierre",
+    "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Limoges_Cercle_Saint-Pierre.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports de Beaublanc",
+        "lat": 45.8475,
+        "lon": 1.2434,
+        "capacite": 5516
+      }
+    ]
+  },
+  {
+    "id": "orleans",
+    "nom": "Orléans Loiret Basket",
+    "court": "Orléans",
+    "ville": "Orléans",
+    "couleur": "#6b1129",
+    "wiki": "https://fr.wikipedia.org/wiki/Orl%C3%A9ans_Loiret_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Orl%C3%A9ans_Loiret_Basket_-_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports d'Orléans",
+        "lat": 47.9097,
+        "lon": 1.9119,
+        "capacite": 3222
+      },
+      {
+        "depuis": "2023-24",
+        "nom": "CO'Met Arena",
+        "lat": 47.8715,
+        "lon": 1.9139,
+        "capacite": 10150
+      }
+    ]
+  },
+  {
+    "id": "antibes",
+    "nom": "Sharks d'Antibes",
+    "court": "Antibes",
+    "ville": "Antibes",
+    "couleur": "#191970",
+    "wiki": "https://fr.wikipedia.org/wiki/Sharks_d'Antibes",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Sharks_Antibes_Basket.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Azur Arena Antibes",
+        "lat": 43.6062,
+        "lon": 7.0768,
+        "capacite": 5249
+      }
+    ]
+  },
+  {
+    "id": "champagne",
+    "nom": "Champagne Basket",
+    "court": "Champagne",
+    "ville": "Reims",
+    "couleur": "#01b7ed",
+    "wiki": "https://fr.wikipedia.org/wiki/Champagne_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Champagne_Basket_-_2020.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Complexe René-Tys",
+        "lat": 49.2437,
+        "lon": 4.0269,
+        "capacite": 2781
+      },
+      {
+        "depuis": "2022-23",
+        "nom": "Reims Arena",
+        "lat": 49.2642,
+        "lon": 4.0323,
+        "capacite": 5500
+      },
+      {
+        "depuis": "2024-25",
+        "nom": "Palais des sports Pierre-de-Coubertin",
+        "lat": 48.9618,
+        "lon": 4.3647,
+        "capacite": 2519
+      }
+    ]
+  },
+  {
+    "id": "metropolitans",
+    "nom": "Metropolitans 92",
+    "court": "Metropolitans",
+    "ville": "Levallois-Perret",
+    "couleur": "#00a0e1",
+    "wiki": "https://fr.wikipedia.org/wiki/Metropolitans_92",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Metropolitans_92_-_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Marcel-Cerdan",
+        "lat": 48.8961,
+        "lon": 2.2783,
+        "capacite": 4000
+      }
+    ]
+  },
+  {
+    "id": "cholet",
+    "nom": "Cholet Basket",
+    "court": "Cholet",
+    "ville": "Cholet",
+    "couleur": "#d7072a",
+    "wiki": "https://fr.wikipedia.org/wiki/Cholet_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Cholet_Basket_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "La Meilleraie",
+        "lat": 47.0579,
+        "lon": -0.8964,
+        "capacite": 5191
+      }
+    ]
+  },
+  {
+    "id": "nancy",
+    "nom": "SLUC Nancy Basket",
+    "court": "Nancy",
+    "ville": "Nancy",
+    "couleur": "#e11924",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_lorrain_universit%C3%A9_club_Nancy_basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/SLUC_Nancy_%28logo%29.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Jean-Weille",
+        "lat": 48.6992,
+        "lon": 6.1394,
+        "capacite": 6027
+      }
+    ]
+  },
+  {
+    "id": "hyeres-toulon",
+    "nom": "Hyères Toulon Var Basket",
+    "court": "Hyères-Toulon",
+    "ville": "Toulon",
+    "couleur": "#f9b200",
+    "wiki": "https://fr.wikipedia.org/wiki/Hy%C3%A8res_Toulon_Var_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Hy%C3%A8res_Toulon_Var_Basket_-_2020.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Jauréguiberry",
+        "lat": 43.126,
+        "lon": 5.9143,
+        "capacite": 4356
+      }
+    ]
+  },
+  {
+    "id": "le-portel",
+    "nom": "ESSM Le Portel",
+    "court": "Le Portel",
+    "ville": "Le Portel",
+    "couleur": "#228b22",
+    "wiki": "https://fr.wikipedia.org/wiki/%C3%89toile_sportive_Saint-Michel_Le_Portel_C%C3%B4te_d'Opale",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_ESSM_Le_Portel_C%C3%B4te_d%27Opale_-_2015.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Le Chaudron",
+        "lat": 50.7168,
+        "lon": 1.5847,
+        "capacite": 3500
+      }
+    ]
+  },
+  {
+    "id": "roanne",
+    "nom": "Chorale Roanne Basket",
+    "court": "Roanne",
+    "ville": "Roanne",
+    "couleur": "#3778c7",
+    "wiki": "https://fr.wikipedia.org/wiki/Chorale_Roanne_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Chorale_Roanne_2014.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle André-Vacheresse",
+        "lat": 46.0308,
+        "lon": 4.0514,
+        "capacite": 5020
+      }
+    ]
+  },
+  {
+    "id": "bourg",
+    "nom": "JL Bourg Basket",
+    "court": "Bourg",
+    "ville": "Bourg-en-Bresse",
+    "couleur": "#d50032",
+    "wiki": "https://fr.wikipedia.org/wiki/Jeunesse_la%C3%AFque_de_Bourg-en-Bresse",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_JL_Bourg_Basket_-_2017.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Ekinox",
+        "lat": 46.1863,
+        "lon": 5.2477,
+        "capacite": 3548
+      }
+    ]
+  },
+  {
+    "id": "boulazac",
+    "nom": "Boulazac Basket Dordogne",
+    "court": "Boulazac",
+    "ville": "Boulazac Isle Manoire",
+    "couleur": "#7b2d8e",
+    "wiki": "https://fr.wikipedia.org/wiki/Boulazac_Basket_Dordogne",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Boulazac_Basket_Dordogne_-_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Le Palio",
+        "lat": 45.1838,
+        "lon": 0.7607,
+        "capacite": 5200
+      }
+    ]
+  },
+  {
+    "id": "paris",
+    "nom": "Paris Basketball",
+    "court": "Paris",
+    "ville": "Paris",
+    "couleur": "#111111",
+    "wiki": "https://fr.wikipedia.org/wiki/Paris_Basketball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Paris_Basketball_-_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle Georges-Carpentier",
+        "lat": 48.82,
+        "lon": 2.3678,
+        "capacite": 4746
+      },
+      {
+        "depuis": "2024-25",
+        "nom": "Adidas Arena",
+        "lat": 48.8994,
+        "lon": 2.3606,
+        "capacite": 8000
+      }
+    ]
+  },
+  {
+    "id": "rouen",
+    "nom": "Rouen Métropole Basket",
+    "court": "Rouen",
+    "ville": "Rouen",
+    "couleur": "#0055a4",
+    "wiki": "https://fr.wikipedia.org/wiki/Rouen_M%C3%A9tropole_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Rouen_M%C3%A9tropole_Basket_-_2025.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Kindarena",
+        "lat": 49.4486,
+        "lon": 1.0633,
+        "capacite": 5789
+      }
+    ]
+  },
+  {
+    "id": "blois",
+    "nom": "ADA Blois Basket 41",
+    "court": "Blois",
+    "ville": "Blois",
+    "couleur": "#056537",
+    "wiki": "https://fr.wikipedia.org/wiki/Abeille_des_Aydes_Blois_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_ADA_Blois_-_2017.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports de Blois",
+        "lat": 47.5942,
+        "lon": 1.3282,
+        "capacite": 1200
+      },
+      {
+        "depuis": "2017-18",
+        "nom": "Salle du Jeu de Paume",
+        "lat": 47.6014,
+        "lon": 1.3273,
+        "capacite": 2525
+      }
+    ]
+  },
+  {
+    "id": "aix-maurienne",
+    "nom": "Aix Maurienne Savoie Basket",
+    "court": "Aix-Maurienne",
+    "ville": "Aix-les-Bains",
+    "couleur": "#d81e00",
+    "wiki": "https://fr.wikipedia.org/wiki/Aix_Maurienne_Savoie_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Aix_Maurienne_Savoie_Basket_-_2016.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle Marlioz",
+        "lat": 45.666,
+        "lon": 5.9126,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "evreux",
+    "nom": "ALM Évreux Basket",
+    "court": "Évreux",
+    "ville": "Évreux",
+    "couleur": "#f6c700",
+    "wiki": "https://fr.wikipedia.org/wiki/Amicale_la%C3%AFque_de_la_Madeleine_%C3%89vreux_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_ALM_%C3%89vreux_Basket_-_2021.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Jean-Fourré",
+        "lat": 49.0219,
+        "lon": 1.1392,
+        "capacite": 3290
+      }
+    ]
+  },
+  {
+    "id": "denain",
+    "nom": "Denain ASC Voltaire",
+    "court": "Denain",
+    "ville": "Denain",
+    "couleur": "#e30002",
+    "wiki": "https://fr.wikipedia.org/wiki/Association_sportive_Cail_Denain_Voltaire_Porte_du_Hainaut",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/DENAIN_VOLTAIRE_logo.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Jean-Degros",
+        "lat": 50.3224,
+        "lon": 3.3989,
+        "capacite": 2500
+      }
+    ]
+  },
+  {
+    "id": "caen",
+    "nom": "Caen Basket Calvados",
+    "court": "Caen",
+    "ville": "Caen",
+    "couleur": "#000000",
+    "wiki": "https://fr.wikipedia.org/wiki/Caen_Basket_Calvados",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Caen_Basket_Calvados_-_2023.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports de Caen",
+        "lat": 49.1712,
+        "lon": -0.3852,
+        "capacite": 4200
+      }
+    ]
+  },
+  {
+    "id": "vichy",
+    "nom": "JA Vichy Basket",
+    "court": "Vichy",
+    "ville": "Vichy",
+    "couleur": "#042d6b",
+    "wiki": "https://fr.wikipedia.org/wiki/Jeanne_d'Arc_Vichy_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_JA_Vichy_Basket_-_2023.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Pierre-Coulon",
+        "lat": 46.1388,
+        "lon": 3.4066,
+        "capacite": 3300
+      }
+    ]
+  },
+  {
+    "id": "lille",
+    "nom": "Lille Métropole Basket",
+    "court": "Lille",
+    "ville": "Lille",
+    "couleur": "#d6001c",
+    "wiki": "https://fr.wikipedia.org/wiki/Lille_M%C3%A9tropole_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Lille_M%C3%A9tropole_Basket_-_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Saint-Sauveur",
+        "lat": 50.6328,
+        "lon": 3.0716,
+        "capacite": 1835
+      }
+    ]
+  },
+  {
+    "id": "nantes",
+    "nom": "Nantes Basket Hermine",
+    "court": "Nantes",
+    "ville": "Nantes",
+    "couleur": "#0060a9",
+    "wiki": "https://fr.wikipedia.org/wiki/Nantes_Basket_Hermine",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Nantes_Basket_Hermine_-_2017.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Complexe sportif Mangin-Beaulieu",
+        "lat": 47.2048,
+        "lon": -1.5418,
+        "capacite": 2200
+      },
+      {
+        "depuis": "2018-19",
+        "nom": "Salle de la Trocardière",
+        "lat": 47.1815,
+        "lon": -1.5723,
+        "capacite": 4185
+      }
+    ]
+  },
+  {
+    "id": "le-havre",
+    "nom": "STB Le Havre",
+    "court": "Le Havre",
+    "ville": "Le Havre",
+    "couleur": "#e2001a",
+    "wiki": "https://fr.wikipedia.org/wiki/Saint_Thomas_Basket_Le_Havre",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_STB_Le_Havre_-_2022.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Docks Océane",
+        "lat": 49.4911,
+        "lon": 0.1326,
+        "capacite": 3598
+      }
+    ]
+  },
+  {
+    "id": "saint-chamond",
+    "nom": "Saint-Chamond Basket",
+    "court": "Saint-Chamond",
+    "ville": "Saint-Chamond",
+    "couleur": "#c8102e",
+    "wiki": "https://fr.wikipedia.org/wiki/Saint-Chamond_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Saint-Chamond_Basket_Vall%C3%A9e_du_Gier_-_2017.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle André-Boulloche",
+        "lat": 45.472,
+        "lon": 4.5318,
+        "capacite": 1200
+      },
+      {
+        "depuis": "2022-23",
+        "nom": "Arena Saint-Étienne Métropole",
+        "lat": 45.4581,
+        "lon": 4.4874,
+        "capacite": 4200
+      }
+    ]
+  },
+  {
+    "id": "boulogne",
+    "nom": "SOM Boulogne",
+    "court": "Boulogne",
+    "ville": "Boulogne-sur-Mer",
+    "couleur": "#fdb927",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_olympique_maritime_boulonnais",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_Olympique_Maritime_Boulonnais.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Damrémont",
+        "lat": 50.7145,
+        "lon": 1.6033,
+        "capacite": 1650
+      }
+    ]
+  },
+  {
+    "id": "la-rochelle",
+    "nom": "Stade rochelais Basket",
+    "court": "La Rochelle",
+    "ville": "La Rochelle",
+    "couleur": "#f5c400",
+    "wiki": "https://fr.wikipedia.org/wiki/Stade_rochelais_basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Stade_rochelais_2016.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Gaston-Neveur",
+        "lat": 46.1672,
+        "lon": -1.1537,
+        "capacite": 1677
+      }
+    ]
+  },
+  {
+    "id": "charleville",
+    "nom": "Étoile de Charleville-Mézières",
+    "court": "Charleville",
+    "ville": "Charleville-Mézières",
+    "couleur": "#0057a8",
+    "wiki": "https://fr.wikipedia.org/wiki/%C3%89toile_de_Charleville-M%C3%A9zi%C3%A8res",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Etoile_Charleville_2015.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "L'Arena",
+        "lat": 49.7576,
+        "lon": 4.7071,
+        "capacite": 2960
+      }
+    ]
+  },
+  {
+    "id": "chartres",
+    "nom": "C' Chartres Basket",
+    "court": "Chartres",
+    "ville": "Chartres",
+    "couleur": "#1d4f91",
+    "wiki": "https://fr.wikipedia.org/wiki/C'_Chartres_M%C3%A9tropole_Basket_Masculin",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_C%27_Chartres_Basket_-_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle Jean-Cochet",
+        "lat": 48.4506,
+        "lon": 1.5045,
+        "capacite": 1200
+      },
+      {
+        "depuis": "2024-25",
+        "nom": "Le Colisée",
+        "lat": 48.4478,
+        "lon": 1.4783,
+        "capacite": 4186
+      }
+    ]
+  },
+  {
+    "id": "quimper",
+    "nom": "Béliers de Kemper",
+    "court": "Quimper",
+    "ville": "Quimper",
+    "couleur": "#00a3e0",
+    "wiki": "https://fr.wikipedia.org/wiki/B%C3%A9liers_de_Kemper_-_UJAP_1984",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_B%C3%A9liers_Kemper_UJAP_1984_-_2020.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Michel-Gloaguen",
+        "lat": 47.9955,
+        "lon": -4.0924,
+        "capacite": 2230
+      },
+      {
+        "depuis": "2025-26",
+        "nom": "Kostum Park",
+        "lat": 47.9927,
+        "lon": -4.075,
+        "capacite": 3500
+      }
+    ]
+  },
+  {
+    "id": "poitiers",
+    "nom": "Poitiers Basket 86",
+    "court": "Poitiers",
+    "ville": "Poitiers",
+    "couleur": "#031f40",
+    "wiki": "https://fr.wikipedia.org/wiki/Poitiers_Basket_86",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Poitiers_Basket_86_-_2018.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Jean-Pierre-Garnier (Saint-Éloi)",
+        "lat": 46.5908,
+        "lon": 0.3852,
+        "capacite": 2270
+      }
+    ]
+  },
+  {
+    "id": "saint-quentin",
+    "nom": "Saint-Quentin Basket-Ball",
+    "court": "Saint-Quentin",
+    "ville": "Saint-Quentin",
+    "couleur": "#004b93",
+    "wiki": "https://fr.wikipedia.org/wiki/Saint-Quentin_Basket-Ball",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Saint-Quentin_Basket-Ball_-_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Pierre-Ratte",
+        "lat": 49.8486,
+        "lon": 3.2938,
+        "capacite": 3800
+      }
+    ]
+  },
+  {
+    "id": "saint-vallier",
+    "nom": "Saint-Vallier Basket Drôme",
+    "court": "Saint-Vallier",
+    "ville": "Saint-Vallier",
+    "couleur": "#f2c200",
+    "wiki": "https://fr.wikipedia.org/wiki/Saint-Vallier_Basket_Dr%C3%B4me",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Saint-Vallier_Basket_Dr%C3%B4me_-_2011.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Complexe sportif des Deux Rives",
+        "lat": 45.1958,
+        "lon": 4.8169,
+        "capacite": 2132
+      }
+    ]
+  },
+  {
+    "id": "tours",
+    "nom": "Tours Métropole Basket",
+    "court": "Tours",
+    "ville": "Tours",
+    "couleur": "#b11810",
+    "wiki": "https://fr.wikipedia.org/wiki/Tours_M%C3%A9tropole_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Tours_M%C3%A9tropole_Basket_-_2021.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle Monconseil",
+        "lat": 47.4208,
+        "lon": 0.7004,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "challans",
+    "nom": "Vendée Challans Basket",
+    "court": "Challans",
+    "ville": "Challans",
+    "couleur": "#e30613",
+    "wiki": "https://fr.wikipedia.org/wiki/Vend%C3%A9e_Challans_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Vend%C3%A9e_Challans_Basket_%28logo%29.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Michel-Vrignaud",
+        "lat": 46.8428,
+        "lon": -1.8791,
+        "capacite": 2452
+      }
+    ]
+  },
+  {
+    "id": "angers",
+    "nom": "Étoile Angers Basket",
+    "court": "Angers",
+    "ville": "Angers",
+    "couleur": "#276ef0",
+    "wiki": "https://fr.wikipedia.org/wiki/%C3%89toile_Angers_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_%C3%89toile_Angers_Basket_-_2017.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle Jean-Bouin",
+        "lat": 47.4599,
+        "lon": -0.5317,
+        "capacite": 3700
+      }
+    ]
+  },
+  {
+    "id": "fos",
+    "nom": "Fos Provence Basket",
+    "court": "Fos",
+    "ville": "Fos-sur-Mer",
+    "couleur": "#f7d117",
+    "wiki": "https://fr.wikipedia.org/wiki/Fos_Provence_Basket",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Fos_Provence_Basket_-_2019.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Halle des sports Parsemain",
+        "lat": 43.4445,
+        "lon": 4.9407,
+        "capacite": 1750
+      }
+    ]
+  },
+  {
+    "id": "gries",
+    "nom": "BC Gries Oberhoffen",
+    "court": "Gries",
+    "ville": "Gries",
+    "couleur": "#009a44",
+    "wiki": "https://fr.wikipedia.org/wiki/Basket_Club_Gries_Oberhoffen",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/BCGO_%28logo%29.png",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Espace Sport La Forêt",
+        "lat": 48.7558,
+        "lon": 7.8231,
+        "capacite": 1450
+      }
+    ]
+  },
+  {
+    "id": "souffelweyersheim",
+    "nom": "ASA Souffelweyersheim",
+    "court": "Souffel",
+    "ville": "Souffelweyersheim",
+    "couleur": "#8b1e3f",
+    "wiki": "https://fr.wikipedia.org/wiki/ASA_Souffelweyersheim",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_ASA_Souffelweyersheim_-_2023.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle des Sept Arpents",
+        "lat": 48.6322,
+        "lon": 7.7393,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "alliance-alsace",
+    "nom": "Alliance Sport Alsace",
+    "court": "Alliance SA",
+    "ville": "Souffelweyersheim",
+    "couleur": "#7b1c2e",
+    "wiki": "https://fr.wikipedia.org/wiki/Alliance_Sport_Alsace",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Alliance_Sport_Alsace_-_2021.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Salle des Sept Arpents",
+        "lat": 48.6322,
+        "lon": 7.7393,
+        "capacite": 1500
+      }
+    ]
+  },
+  {
+    "id": "levallois",
+    "nom": "Levallois Sporting Club",
+    "court": "Levallois",
+    "ville": "Levallois-Perret",
+    "couleur": "#002856",
+    "wiki": "https://fr.wikipedia.org/wiki/Levallois_Sporting_Club_(basket-ball)",
+    "logo": "https://fr.wikipedia.org/wiki/Special:FilePath/Logo_Levallois_Sporting_Club_-_2024.svg",
+    "stades": [
+      {
+        "depuis": "2016-17",
+        "nom": "Palais des sports Marcel-Cerdan",
+        "lat": 48.8961,
+        "lon": 2.2783,
+        "capacite": 4000
+      }
+    ]
+  }
+]
